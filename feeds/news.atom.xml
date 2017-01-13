@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Siouxland Linux Users Group</title><link href="http://sluglinux.org/" rel="alternate"></link><link href="http://sluglinux.org/feeds/news.atom.xml" rel="self"></link><id>http://sluglinux.org/</id><updated>2016-10-19T00:00:00-05:00</updated><entry><title>Meeting at the Downtown Library</title><link href="http://sluglinux.org/news/2016-10-19.html" rel="alternate"></link><updated>2016-10-19T00:00:00-05:00</updated><author><name>opello</name></author><id>tag:sluglinux.org,2016-10-19:news/2016-10-19.html</id><summary type="html">&lt;p&gt;MrTuttle has secured a meeting room in the &lt;a href="https://www.google.com/maps/place/Siouxland+Libraries/@43.5492104,-96.7311125,17z/data=!3m1!4b1!4m5!3m4!1s0x878eb598e9b48597:0xec1554bb68dcb276!8m2!3d43.5492104!4d-96.7289238"&gt;downtown library&lt;/a&gt; for a
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Siouxland Linux Users Group</title><link href="http://sluglinux.org/" rel="alternate"></link><link href="http://sluglinux.org/feeds/news.atom.xml" rel="self"></link><id>http://sluglinux.org/</id><updated>2017-01-18T00:00:00-06:00</updated><entry><title>First Meeting of 2017</title><link href="http://sluglinux.org/news/2017-01-18.html" rel="alternate"></link><updated>2017-01-18T00:00:00-06:00</updated><author><name>opello</name></author><id>tag:sluglinux.org,2017-01-18:news/2017-01-18.html</id><summary type="html">&lt;p&gt;You may have noticed the discussion on the mailing list, if not we are
+having a meeting on Wednesday, January 18th, 2017, at 6 PM in the main
+meeting room at the &lt;a href="https://www.google.com/maps/place/Siouxland+Libraries/@43.5492104,-96.7311125,17z/data=!3m1!4b1!4m5!3m4!1s0x878eb598e9b48597:0xec1554bb68dcb276!8m2!3d43.5492104!4d-96.7289238"&gt;downtown library&lt;/a&gt;.  This is the meeting room
+that is through the library not either of the two nearest the entry way.&lt;/p&gt;
+&lt;p&gt;On the mailing list Ryan Waters was kind enough to commit to presenting
+a whirlwind tour of mtr, tcpdump, and wireshark.  We can also be
+prepared for rhubarbpieguy to lead a discussion on GoboLinux and what he
+has learned about it so far.&lt;/p&gt;
+&lt;p&gt;Other topic ideas discussed without commitment by someone to lead:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Python environment setup&lt;/li&gt;
+&lt;li&gt;Window managers, specifically those that are light weight and provide
+  easy access to key bindings&lt;/li&gt;
+&lt;li&gt;Wayland&lt;/li&gt;
+&lt;li&gt;Shells other than bash that people like (e.g. zsh, dash)&lt;/li&gt;
+&lt;li&gt;Terminal emulators other than plain old xterm&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="slug"></category><category term="meeting"></category></entry><entry><title>Meeting at the Downtown Library</title><link href="http://sluglinux.org/news/2016-10-19.html" rel="alternate"></link><updated>2016-10-19T00:00:00-05:00</updated><author><name>opello</name></author><id>tag:sluglinux.org,2016-10-19:news/2016-10-19.html</id><summary type="html">&lt;p&gt;MrTuttle has secured a meeting room in the &lt;a href="https://www.google.com/maps/place/Siouxland+Libraries/@43.5492104,-96.7311125,17z/data=!3m1!4b1!4m5!3m4!1s0x878eb598e9b48597:0xec1554bb68dcb276!8m2!3d43.5492104!4d-96.7289238"&gt;downtown library&lt;/a&gt; for a
 meeting on October 19th.  The plan right now is to discuss a variety of
 things mentioned on the mailing list and organize them into future
 meetings.  We may not get through the entire list of topics because
