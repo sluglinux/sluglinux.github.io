@@ -1,5 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Siouxland Linux Users Group</title><link href="http://sluglinux.org/" rel="alternate"></link><link href="http://sluglinux.org/feeds/minutes.atom.xml" rel="self"></link><id>http://sluglinux.org/</id><updated>2014-12-22T00:00:00-06:00</updated><entry><title>Minutes 2014-12-22</title><link href="http://sluglinux.org/minutes/2014-12-22.html" rel="alternate"></link><updated>2014-12-22T00:00:00-06:00</updated><author><name>MrTuttle</name></author><id>tag:sluglinux.org,2014-12-22:minutes/2014-12-22.html</id><summary type="html">&lt;!---
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Siouxland Linux Users Group</title><link href="http://sluglinux.org/" rel="alternate"></link><link href="http://sluglinux.org/feeds/minutes.atom.xml" rel="self"></link><id>http://sluglinux.org/</id><updated>2017-01-18T00:00:00-06:00</updated><entry><title>Minutes 2017-01-18</title><link href="http://sluglinux.org/minutes/2017-01-18.html" rel="alternate"></link><updated>2017-01-18T00:00:00-06:00</updated><author><name>mrtuttle</name></author><id>tag:sluglinux.org,2017-01-18:minutes/2017-01-18.html</id><summary type="html">&lt;h1&gt;Location&lt;/h1&gt;
+&lt;p&gt;Siouxland Libraries Main Branch&lt;br /&gt;
+Room: Main Meeting Room B&lt;br /&gt;
+Date: Wednesday, January 18, 2017&lt;br /&gt;
+Time: 6:00 PM to 8:45 PM&lt;/p&gt;
+&lt;h1&gt;Minutes&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Next meeting is to be March 15, 2017.&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://dakotacon.org"&gt;DakotaCon&lt;/a&gt; is March 31 - April 2.&lt;/li&gt;
+&lt;li&gt;Ryan started off the meeting by telling us about &lt;a href="http://www.bitwizard.nl/mtr/"&gt;MTR&lt;/a&gt;, a trace route / ping super tool.&lt;/li&gt;
+&lt;li&gt;Rhubarbpieguy shared his experience with &lt;a href="http://www.gobolinux.org/"&gt;GoboLinux&lt;/a&gt;, a Linux distribution with a different take on how software can be installed.&lt;/li&gt;
+&lt;li&gt;Dennis brought in his &lt;a href="https://www.itead.cc/sonoff-wifi-wireless-switch.html"&gt;ITEAD Sonoff WiFi wireless switch&lt;/a&gt; and told us about his project getting it to work with a &lt;a href="https://www.raspberrypi.org/"&gt;Raspberry Pi&lt;/a&gt; for home automation.&lt;/li&gt;
+&lt;li&gt;Vector described a problem with &lt;a href="http://store.steampowered.com/app/252950/"&gt;Rocket League&lt;/a&gt; not recognizing his game controller and the lengths he went to fix it.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://shop.keyboard.io/"&gt;Keyboardio&lt;/a&gt; is a strange open-source-friendly keyboard that costs $329.00.&lt;/li&gt;
+&lt;li&gt;The group discussed:&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Letter_case#Special_case_styles"&gt;CamelCase vs. kabab-case.  snake_case doesn't even rate.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://flatpak.org/"&gt;Flatpak&lt;/a&gt; vs. &lt;a href="http://snapcraft.io/"&gt;Snap&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://etckeeper.branchable.com/"&gt;Etckeeper&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://wayland.freedesktop.org/"&gt;Wayland&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.qnx.com/content/qnx/en.html"&gt;QNX&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;gaming on Linux&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;We also reminisced about:&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.toms.net/rb/"&gt;Tom's Root Boot&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://i-cdn.phonearena.com/images/articles/49899-image/P1150030.JPG.jpg"&gt;lapdock&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.amazon.com/ASUS-1000HE-10-1-Inch-Black-Netbook/dp/B001QTXL82"&gt;eee pc&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://i.imgur.com/ohB4y2j.gif"&gt;butterfly keyboards&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="dakotacon"></category><category term="MTR"></category><category term="GoboLinux"></category><category term="Sonoff"></category><category term="Raspberry Pi"></category><category term="home automation"></category><category term="Flatpak"></category><category term="Snap"></category><category term="Etckeeper"></category><category term="Wayland"></category><category term="QNX"></category></entry><entry><title>Minutes 2014-12-22</title><link href="http://sluglinux.org/minutes/2014-12-22.html" rel="alternate"></link><updated>2014-12-22T00:00:00-06:00</updated><author><name>MrTuttle</name></author><id>tag:sluglinux.org,2014-12-22:minutes/2014-12-22.html</id><summary type="html">&lt;!---
 Summary:
 --&gt;
 
