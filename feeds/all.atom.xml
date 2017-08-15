@@ -1,8 +1,54 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Siouxland Linux Users Group</title><link href="http://sluglinux.org/" rel="alternate"></link><link href="http://sluglinux.org/feeds/all.atom.xml" rel="self"></link><id>http://sluglinux.org/</id><updated>2017-01-26T00:00:00-06:00</updated><entry><title>First Minutes of 2017</title><link href="http://sluglinux.org/news/2017-01-26.html" rel="alternate"></link><updated>2017-01-26T00:00:00-06:00</updated><author><name>mrtuttle</name></author><id>tag:sluglinux.org,2017-01-26:news/2017-01-26.html</id><summary type="html">&lt;p&gt;The &lt;a href="http://sluglinux.org/minutes/2017-01-18.html"&gt;minutes&lt;/a&gt; from this month's meeting have been added.  Thanks to everyone who came and we hope to see you March 15!&lt;/p&gt;</summary><category term="slug"></category><category term="meeting"></category><category term="minutes"></category></entry><entry><title>Minutes 2017-01-18</title><link href="http://sluglinux.org/minutes/2017-01-18.html" rel="alternate"></link><updated>2017-01-18T00:00:00-06:00</updated><author><name>mrtuttle</name></author><id>tag:sluglinux.org,2017-01-18:minutes/2017-01-18.html</id><summary type="html">&lt;h1&gt;Location&lt;/h1&gt;
-&lt;p&gt;Siouxland Libraries Main Branch&lt;br /&gt;
-Room: Main Meeting Room B&lt;br /&gt;
-Date: Wednesday, January 18, 2017&lt;br /&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Siouxland Linux Users Group</title><link href="http://sluglinux.org/" rel="alternate"></link><link href="http://sluglinux.org/feeds/all.atom.xml" rel="self"></link><id>http://sluglinux.org/</id><updated>2017-08-08T00:00:00-05:00</updated><entry><title>Meeting Minutes 3-Pack</title><link href="http://sluglinux.org/news/2017-08-08.html" rel="alternate"></link><published>2017-08-08T00:00:00-05:00</published><updated>2017-08-08T00:00:00-05:00</updated><author><name>mrtuttle</name></author><id>tag:sluglinux.org,2017-08-08:/news/2017-08-08.html</id><summary type="html">&lt;p&gt;The minutes for the meetings of &lt;a href="http://sluglinux.org/minutes/2017-03-15.html"&gt;March 15&lt;/a&gt;, &lt;a href="http://sluglinux.org/minutes/2017-05-17.html"&gt;May 17&lt;/a&gt;, and &lt;a href="http://sluglinux.org/minutes/2017-07-19.html"&gt;July 19&lt;/a&gt; have finally been added.&lt;/p&gt;</summary><content type="html">&lt;p&gt;The minutes for the meetings of &lt;a href="http://sluglinux.org/minutes/2017-03-15.html"&gt;March 15&lt;/a&gt;, &lt;a href="http://sluglinux.org/minutes/2017-05-17.html"&gt;May 17&lt;/a&gt;, and &lt;a href="http://sluglinux.org/minutes/2017-07-19.html"&gt;July 19&lt;/a&gt; have finally been added.&lt;/p&gt;</content><category term="slug"></category><category term="meeting"></category><category term="minutes"></category></entry><entry><title>Minutes 2017-07-19</title><link href="http://sluglinux.org/minutes/2017-07-19.html" rel="alternate"></link><published>2017-07-19T00:00:00-05:00</published><updated>2017-07-19T00:00:00-05:00</updated><author><name>mrtuttle</name></author><id>tag:sluglinux.org,2017-07-19:/minutes/2017-07-19.html</id><summary type="html">&lt;p&gt;Minutes for the 2017-07-19 meeting&lt;/p&gt;</summary><content type="html">&lt;h1&gt;Location&lt;/h1&gt;
+&lt;p&gt;Siouxland Libraries Main Branch&lt;br&gt;
+Room: Main Meeting Room B&lt;br&gt;
+Date: Wednesday, July 19, 2017
+Time: 6:00 PM to 8:45 PM&lt;/p&gt;
+&lt;h1&gt;Minutes&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Vector described a script he wrote to temporarily disable his mouse so &lt;a href="https://www.rocketleague.com/"&gt;Rocket League&lt;/a&gt; configure his gamepad as the primary controller.&lt;/li&gt;
+&lt;li&gt;We talked about some guy who deletes a his root filesystem and then tries to recover it.  &lt;a href="https://www.youtube.com/watch?v=3BW8LL4-o8E"&gt;This&lt;/a&gt; is the closest I came to finding it.&lt;/li&gt;
+&lt;li&gt;Shitty robot lady Simone Gertz and Adam Savage collaborated to build... &lt;a href="https://www.youtube.com/watch?annotation_id=annotation_4183912579&amp;amp;feature=iv&amp;amp;src_vid=8AKZk2ldPWs&amp;amp;v=U4LZbewqB-E"&gt;something&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Talked about what machines everyone brought to the meeting.&lt;/li&gt;
+&lt;li&gt;Vector described the projects he has been working on regarding his 3D printer: a handle for closing the trunk of his car, a shifter stopper for said car, and bridges for playing pool or snooker.&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.makemkv.com/"&gt;makemkv&lt;/a&gt; is a great program for ripping Blu-ray.&lt;/li&gt;
+&lt;li&gt;If anyone wants to kickstart creating a .fart tld, we support you.&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://ytmnd.com/"&gt;ytmnd.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=G-X-p0C0Uas"&gt;The Floppotron - The Final Countdown&lt;/a&gt; , &lt;a href="https://www.youtube.com/watch?v=o0QHY7S-OtU"&gt;Man or Astroman - A Simple Text File&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Opello told us about a satellite receiver chip driver he recently completed and about a decoder chip driver he is now working on.&lt;/li&gt;
+&lt;li&gt;IP address drama from the days of yore.&lt;/li&gt;
+&lt;/ul&gt;</content><category term="Rocket League"></category><category term="file systems"></category><category term="Simone Gertz"></category><category term="Adam Savage"></category><category term="robots"></category><category term="ripping media"></category><category term="music"></category><category term="nostalgia"></category></entry><entry><title>Minutes 2017-05-17</title><link href="http://sluglinux.org/minutes/2017-05-17.html" rel="alternate"></link><published>2017-05-17T00:00:00-05:00</published><updated>2017-05-17T00:00:00-05:00</updated><author><name>mrtuttle</name></author><id>tag:sluglinux.org,2017-05-17:/minutes/2017-05-17.html</id><summary type="html">&lt;p&gt;Minutes for the 2017-05-17 meeting&lt;/p&gt;</summary><content type="html">&lt;h1&gt;Location&lt;/h1&gt;
+&lt;p&gt;Siouxland Libraries Main Branch&lt;br&gt;
+Room: Main Meeting Room B&lt;br&gt;
+Date: Wednesday, May 17, 2017
+Time: 6:00 PM to 8:45 PM&lt;/p&gt;
+&lt;h1&gt;Minutes&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Vector brought a little pokemon model he made with his 3d printer along with some filament.&lt;/li&gt;
+&lt;li&gt;We got to see the &lt;a href="http://octoprint.org/"&gt;Octoprint&lt;/a&gt; monitoring software he was using to document each of his prints.&lt;/li&gt;
+&lt;li&gt;Vector also brought a couple locks and talked about lock picking.&lt;/li&gt;
+&lt;li&gt;Mrtuttle regurgitated some stuff he read about &lt;a href="https://www.docker.com/"&gt;Docker&lt;/a&gt; the other day.&lt;/li&gt;
+&lt;li&gt;Podcasts attendees listen to: &lt;a href="http://historyofenglishpodcast.com/"&gt;History of English&lt;/a&gt;, &lt;a href="https://talkpython.fm/"&gt;Talk Python To Me&lt;/a&gt;, &lt;a href="http://www.quickanddirtytips.com/grammar-girl"&gt;Grammar Girl&lt;/a&gt;, &lt;a href="http://theblacktapespodcast.com/"&gt;The Black Tapes&lt;/a&gt;, &lt;a href="https://www.theallusionist.org/"&gt;The Allusionist&lt;/a&gt;, &lt;a href="https://www.twoupproductions.com/shows/limetown"&gt;Limetown&lt;/a&gt;, and &lt;a href="http://lhspodcast.info/"&gt;Linux In The Ham Shack&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;</content><category term="pokemon"></category><category term="3D printing"></category><category term="octoprint"></category><category term="lock picking"></category><category term="docker"></category><category term="podcasts"></category></entry><entry><title>Minutes 2017-03-15</title><link href="http://sluglinux.org/minutes/2017-03-15.html" rel="alternate"></link><published>2017-03-15T00:00:00-05:00</published><updated>2017-03-15T00:00:00-05:00</updated><author><name>mrtuttle</name></author><id>tag:sluglinux.org,2017-03-15:/minutes/2017-03-15.html</id><summary type="html">&lt;p&gt;Minutes for the 2017-03-15 meeting&lt;/p&gt;</summary><content type="html">&lt;h1&gt;Location&lt;/h1&gt;
+&lt;p&gt;Siouxland Libraries Main Branch&lt;br&gt;
+Room: Main Meeting Room B&lt;br&gt;
+Date: Wednesday, March 15, 2017
+Time: 6:00 PM to 8:45 PM&lt;/p&gt;
+&lt;h1&gt;Minutes&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Dennis shared his progress with his home automation project involving his r-pi.&lt;/li&gt;
+&lt;li&gt;Discussed &lt;a href="https://en.wikipedia.org/wiki/MIT_License"&gt;mit&lt;/a&gt;, &lt;a href="http://www.linfo.org/bsdlicense.html"&gt;bsd&lt;/a&gt;, and &lt;a href="https://www.gnu.org/licenses/gpl.html"&gt;gpl&lt;/a&gt; licenses.&lt;/li&gt;
+&lt;li&gt;Wondered whether or not &lt;a href="https://www.gnu.org/software/hurd/index.html"&gt;hurd&lt;/a&gt; can run on a virtual machine.  &lt;a href="https://www.researchut.com/blog/debian-hurd-on-virtualbox"&gt;Yes it can&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Vector talked about writing perl professionally.&lt;/li&gt;
+&lt;li&gt;"Dr.Buglove or How I Learned to Grep Through Code and Love My IDE", the tail of a boss who changes a function name but doesn't then change all references to it.&lt;/li&gt;
+&lt;li&gt;Compared password managers.&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://felenasoft.com/xeoma/en/"&gt;Xeoma&lt;/a&gt; is what Vector uses for controlling his home surveillance system.&lt;/li&gt;
+&lt;li&gt;May 17 is the next meeting.&lt;/li&gt;
+&lt;li&gt;We learned no one has a full version of the 1927 film &lt;a href="https://en.wikipedia.org/wiki/Metropolis_(1927_film)"&gt;"Metropolis"&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;</content><category term="licenses"></category><category term="Raspberry Pi"></category><category term="home automation"></category><category term="hurd"></category><category term="Xeoma"></category><category term="Metropolis"></category></entry><entry><title>First Minutes of 2017</title><link href="http://sluglinux.org/news/2017-01-26.html" rel="alternate"></link><published>2017-01-26T00:00:00-06:00</published><updated>2017-01-26T00:00:00-06:00</updated><author><name>mrtuttle</name></author><id>tag:sluglinux.org,2017-01-26:/news/2017-01-26.html</id><summary type="html">&lt;p&gt;The &lt;a href="http://sluglinux.org/minutes/2017-01-18.html"&gt;minutes&lt;/a&gt; from this month's meeting have been added.  Thanks to everyone who came and we hope to see you March 15!&lt;/p&gt;</summary><content type="html">&lt;p&gt;The &lt;a href="http://sluglinux.org/minutes/2017-01-18.html"&gt;minutes&lt;/a&gt; from this month's meeting have been added.  Thanks to everyone who came and we hope to see you March 15!&lt;/p&gt;</content><category term="slug"></category><category term="meeting"></category><category term="minutes"></category></entry><entry><title>Minutes 2017-01-18</title><link href="http://sluglinux.org/minutes/2017-01-18.html" rel="alternate"></link><published>2017-01-18T00:00:00-06:00</published><updated>2017-01-18T00:00:00-06:00</updated><author><name>mrtuttle</name></author><id>tag:sluglinux.org,2017-01-18:/minutes/2017-01-18.html</id><summary type="html">&lt;p&gt;Minutes for the 2017-01-18 meeting&lt;/p&gt;</summary><content type="html">&lt;h1&gt;Location&lt;/h1&gt;
+&lt;p&gt;Siouxland Libraries Main Branch&lt;br&gt;
+Room: Main Meeting Room B&lt;br&gt;
+Date: Wednesday, January 18, 2017&lt;br&gt;
 Time: 6:00 PM to 8:45 PM&lt;/p&gt;
 &lt;h1&gt;Minutes&lt;/h1&gt;
 &lt;ul&gt;
@@ -29,7 +75,10 @@ Time: 6:00 PM to 8:45 PM&lt;/p&gt;
 &lt;li&gt;&lt;a href="http://i.imgur.com/ohB4y2j.gif"&gt;butterfly keyboards&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;/ul&gt;</summary><category term="dakotacon"></category><category term="MTR"></category><category term="GoboLinux"></category><category term="Sonoff"></category><category term="Raspberry Pi"></category><category term="home automation"></category><category term="Flatpak"></category><category term="Snap"></category><category term="Etckeeper"></category><category term="Wayland"></category><category term="QNX"></category></entry><entry><title>First Meeting of 2017</title><link href="http://sluglinux.org/news/2017-01-18.html" rel="alternate"></link><updated>2017-01-18T00:00:00-06:00</updated><author><name>opello</name></author><id>tag:sluglinux.org,2017-01-18:news/2017-01-18.html</id><summary type="html">&lt;p&gt;You may have noticed the discussion on the mailing list, if not we are
+&lt;/ul&gt;</content><category term="dakotacon"></category><category term="MTR"></category><category term="GoboLinux"></category><category term="Sonoff"></category><category term="Raspberry Pi"></category><category term="home automation"></category><category term="Flatpak"></category><category term="Snap"></category><category term="Etckeeper"></category><category term="Wayland"></category><category term="QNX"></category></entry><entry><title>First Meeting of 2017</title><link href="http://sluglinux.org/news/2017-01-18.html" rel="alternate"></link><published>2017-01-18T00:00:00-06:00</published><updated>2017-01-18T00:00:00-06:00</updated><author><name>opello</name></author><id>tag:sluglinux.org,2017-01-18:/news/2017-01-18.html</id><summary type="html">&lt;p&gt;You may have noticed the discussion on the mailing list, if not we are
+having a meeting on Wednesday, January 18th, 2017, at 6 PM in the main
+meeting room at the &lt;a href="https://www.google.com/maps/place/Siouxland+Libraries/@43.5492104,-96.7311125,17z/data=!3m1!4b1!4m5!3m4!1s0x878eb598e9b48597:0xec1554bb68dcb276!8m2!3d43.5492104!4d-96.7289238"&gt;downtown library&lt;/a&gt;.  This is the meeting room
+that is through the library not either of the two nearest …&lt;/p&gt;</summary><content type="html">&lt;p&gt;You may have noticed the discussion on the mailing list, if not we are
 having a meeting on Wednesday, January 18th, 2017, at 6 PM in the main
 meeting room at the &lt;a href="https://www.google.com/maps/place/Siouxland+Libraries/@43.5492104,-96.7311125,17z/data=!3m1!4b1!4m5!3m4!1s0x878eb598e9b48597:0xec1554bb68dcb276!8m2!3d43.5492104!4d-96.7289238"&gt;downtown library&lt;/a&gt;.  This is the meeting room
 that is through the library not either of the two nearest the entry way.&lt;/p&gt;
@@ -45,7 +94,11 @@ has learned about it so far.&lt;/p&gt;
 &lt;li&gt;Wayland&lt;/li&gt;
 &lt;li&gt;Shells other than bash that people like (e.g. zsh, dash)&lt;/li&gt;
 &lt;li&gt;Terminal emulators other than plain old xterm&lt;/li&gt;
-&lt;/ul&gt;</summary><category term="slug"></category><category term="meeting"></category></entry><entry><title>Meeting at the Downtown Library</title><link href="http://sluglinux.org/news/2016-10-19.html" rel="alternate"></link><updated>2016-10-19T00:00:00-05:00</updated><author><name>opello</name></author><id>tag:sluglinux.org,2016-10-19:news/2016-10-19.html</id><summary type="html">&lt;p&gt;MrTuttle has secured a meeting room in the &lt;a href="https://www.google.com/maps/place/Siouxland+Libraries/@43.5492104,-96.7311125,17z/data=!3m1!4b1!4m5!3m4!1s0x878eb598e9b48597:0xec1554bb68dcb276!8m2!3d43.5492104!4d-96.7289238"&gt;downtown library&lt;/a&gt; for a
+&lt;/ul&gt;</content><category term="slug"></category><category term="meeting"></category></entry><entry><title>Meeting at the Downtown Library</title><link href="http://sluglinux.org/news/2016-10-19.html" rel="alternate"></link><published>2016-10-19T00:00:00-05:00</published><updated>2016-10-19T00:00:00-05:00</updated><author><name>opello</name></author><id>tag:sluglinux.org,2016-10-19:/news/2016-10-19.html</id><summary type="html">&lt;p&gt;MrTuttle has secured a meeting room in the &lt;a href="https://www.google.com/maps/place/Siouxland+Libraries/@43.5492104,-96.7311125,17z/data=!3m1!4b1!4m5!3m4!1s0x878eb598e9b48597:0xec1554bb68dcb276!8m2!3d43.5492104!4d-96.7289238"&gt;downtown library&lt;/a&gt; for a
+meeting on October 19th.  The plan right now is to discuss a variety of
+things mentioned on the mailing list and organize them into future
+meetings.  We may not get through the entire list of topics because
+discussion …&lt;/p&gt;</summary><content type="html">&lt;p&gt;MrTuttle has secured a meeting room in the &lt;a href="https://www.google.com/maps/place/Siouxland+Libraries/@43.5492104,-96.7311125,17z/data=!3m1!4b1!4m5!3m4!1s0x878eb598e9b48597:0xec1554bb68dcb276!8m2!3d43.5492104!4d-96.7289238"&gt;downtown library&lt;/a&gt; for a
 meeting on October 19th.  The plan right now is to discuss a variety of
 things mentioned on the mailing list and organize them into future
 meetings.  We may not get through the entire list of topics because
@@ -193,7 +246,20 @@ few meetings here.&lt;/p&gt;
 &lt;li&gt;Linux Gadgets&lt;/li&gt;
 &lt;li&gt;New, Fun Distributions&lt;/li&gt;
 &lt;li&gt;Subsystem for UNIX on Windows (bash on Windows 10)&lt;/li&gt;
-&lt;/ul&gt;</summary><category term="slug"></category><category term="meeting"></category></entry><entry><title>Minutes 2014-12-22</title><link href="http://sluglinux.org/minutes/2014-12-22.html" rel="alternate"></link><updated>2014-12-22T00:00:00-06:00</updated><author><name>MrTuttle</name></author><id>tag:sluglinux.org,2014-12-22:minutes/2014-12-22.html</id><summary type="html">&lt;!---
+&lt;/ul&gt;</content><category term="slug"></category><category term="meeting"></category></entry><entry><title>Minutes 2014-12-22</title><link href="http://sluglinux.org/minutes/2014-12-22.html" rel="alternate"></link><published>2014-12-22T00:00:00-06:00</published><updated>2014-12-22T00:00:00-06:00</updated><author><name>MrTuttle</name></author><id>tag:sluglinux.org,2014-12-22:/minutes/2014-12-22.html</id><summary type="html">&lt;!---
+Summary:
+--&gt;
+
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;p&gt;&lt;a href="http://sftommyjacks.com/"&gt;TommyJack's Pub&lt;/a&gt;
+214 E. 12th St.
+Sioux Falls SD
+Date: Monday, December 22, 2014
+Time: 6:00 PM to whenever&lt;/p&gt;
+&lt;h2&gt;Agenda&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Drink beer (or whatever you like) and talk about computers.  So easy, even an alcoholic baby could do it.&lt;/li&gt;
+&lt;li&gt;There is no cost to attend the meeting or …&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;!---
 Summary:
 --&gt;
 
@@ -211,61 +277,71 @@ Time: 6:00 PM to whenever&lt;/p&gt;
 &lt;/ul&gt;
 &lt;h2&gt;Minutes&lt;/h2&gt;
 &lt;p&gt;Seven people were in attendance.&lt;/p&gt;
-&lt;p&gt;MrTuttle demonstrated &lt;a href="http://www.blender.org/"&gt;Blender&lt;/a&gt; and how he is using it for planning home improvements.&lt;/p&gt;</summary><category term="slug"></category><category term="meetings"></category><category term="blender"></category></entry><entry><title>Informal Get-Together 2014-12-22</title><link href="http://sluglinux.org/news/2014-12-18.html" rel="alternate"></link><updated>2014-12-18T00:00:00-06:00</updated><author><name>MrTuttle</name></author><id>tag:sluglinux.org,2014-12-18:news/2014-12-18.html</id><summary type="html">&lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
+&lt;p&gt;MrTuttle demonstrated &lt;a href="http://www.blender.org/"&gt;Blender&lt;/a&gt; and how he is using it for planning home improvements.&lt;/p&gt;</content><category term="slug"></category><category term="meetings"></category><category term="blender"></category></entry><entry><title>Informal Get-Together 2014-12-22</title><link href="http://sluglinux.org/news/2014-12-18.html" rel="alternate"></link><published>2014-12-18T00:00:00-06:00</published><updated>2014-12-18T00:00:00-06:00</updated><author><name>MrTuttle</name></author><id>tag:sluglinux.org,2014-12-18:/news/2014-12-18.html</id><summary type="html">&lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
 
 &lt;p&gt;We have an informal thing going on Monday, December 22. Come down to TommyJack's, drink, hang out, spend too much money on their awesome jukebox, meet new people (maybe), meet old people (probably), and talk about computers. 
-&lt;!-- PELICAN_END_SUMMARY --&gt;&lt;/p&gt;</summary><category term="slug"></category><category term="meeting"></category></entry><entry><title>Designing with Blender</title><link href="http://sluglinux.org/news/2014-05-19.html" rel="alternate"></link><updated>2014-05-19T00:00:00-05:00</updated><author><name>MrTuttle</name></author><id>tag:sluglinux.org,2014-05-19:news/2014-05-19.html</id><summary type="html">&lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
+&lt;!-- PELICAN_END_SUMMARY --&gt;&lt;/p&gt;</summary><content type="html">&lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
+
+&lt;p&gt;We have an informal thing going on Monday, December 22. Come down to TommyJack's, drink, hang out, spend too much money on their awesome jukebox, meet new people (maybe), meet old people (probably), and talk about computers. 
+&lt;!-- PELICAN_END_SUMMARY --&gt;&lt;/p&gt;</content><category term="slug"></category><category term="meeting"></category></entry><entry><title>Designing with Blender</title><link href="http://sluglinux.org/news/2014-05-19.html" rel="alternate"></link><published>2014-05-19T00:00:00-05:00</published><updated>2014-05-19T00:00:00-05:00</updated><author><name>MrTuttle</name></author><id>tag:sluglinux.org,2014-05-19:/news/2014-05-19.html</id><summary type="html">&lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
 
 &lt;!-- PELICAN_END_SUMMARY --&gt;
 
-&lt;p&gt;&lt;img alt="Photo" src="http://sluglinux.org/news/Bookshelf-final.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Photo" src="http://sluglinux.org/news/Bookshelf-final.png"&gt;&lt;/p&gt;
 &lt;p&gt;In this tutorial, some techniques for manipulating the size and location of objects will be demonstrated in the course of building a bookshelf.  It requires no previous knowledge of blender.&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Photo" src="http://sluglinux.org/news/Bookshelf-factorySettings.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Photo" src="http://sluglinux.org/news/Bookshelf-factorySettings.png"&gt;&lt;/p&gt;
+&lt;p&gt;For the initial setup, blender is configured just like it would be if had been just installed.  If any settings …&lt;/p&gt;</summary><content type="html">&lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
+
+&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;p&gt;&lt;img alt="Photo" src="http://sluglinux.org/news/Bookshelf-final.png"&gt;&lt;/p&gt;
+&lt;p&gt;In this tutorial, some techniques for manipulating the size and location of objects will be demonstrated in the course of building a bookshelf.  It requires no previous knowledge of blender.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Photo" src="http://sluglinux.org/news/Bookshelf-factorySettings.png"&gt;&lt;/p&gt;
 &lt;p&gt;For the initial setup, blender is configured just like it would be if had been just installed.  If any settings have been changed, just go to &lt;strong&gt;"file"&amp;gt;"Load Factory Settings"&lt;/strong&gt;.  This will bring blender back from the brink even if the startup file gets overwritten with garbage.&lt;/p&gt;
 &lt;p&gt;As for useful keyboard shortcuts to know before beginning, &lt;strong&gt;spacebar&lt;/strong&gt; and &lt;strong&gt;control-z&lt;/strong&gt; make life much easier.  If any particular menu item or button can't be found, press the &lt;strong&gt;spacebar&lt;/strong&gt;.  This brings up a context-sensitive search window that will display possible operations.  For example, if "snap cursor to selected" can't be found or the keyboard shortcut can't be remembered, type "cursor" into the search field and it can easily be found it the resulting list.  &lt;strong&gt;Control-z&lt;/strong&gt; is there to undo anything that is done in the course of manipulating the scene.&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Photo" src="http://sluglinux.org/news/Bookshelf-imperial.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Photo" src="http://sluglinux.org/news/Bookshelf-imperial.png"&gt;&lt;/p&gt;
 &lt;p&gt;The first thing to do is to change the units blender uses to Imperial since the tutorial uses inches for all the lengths.  Sorry rest-of-the-world.  The properties window is on the lower right hand side of the screen.  It has a number of icons across the top of it. The first one is used to select what kind of window it is.  The other icons are used to select which subset of properties are being displayed, called a context. Click the third icon from the left; it has 3 shapes on it.  This is the scene context.  Down in the units section, change the selection from "None" to "Imperial".&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Photo" src="http://sluglinux.org/news/Bookshelf-dimensions.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Photo" src="http://sluglinux.org/news/Bookshelf-dimensions.png"&gt;&lt;/p&gt;
 &lt;p&gt;In the 3D window, there is a plus sign in the upper right corner. Clicking it will open the properties panel.  Notice the difference between the properties panel, which was just opened, and the properties window, which is where the unit type was selected. Pressing &lt;strong&gt;n&lt;/strong&gt; in the 3D window will also open and close the panel.&lt;/p&gt;
 &lt;p&gt;The scene should already have a cube in it and it should already be selected.  If it isn't, select it using the right mouse button.&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Photo" src="http://sluglinux.org/news/Bookshelf-firstPiece.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Photo" src="http://sluglinux.org/news/Bookshelf-firstPiece.png"&gt;&lt;/p&gt;
 &lt;p&gt;In the properties panel, there is a subset titled "Transform".  The properties at the bottom of the set describe the width, length, and height of the object.  When they are manipulated, they affect the scale of the object to match the dimensions.  Math can be performed within these fields.  Type 4'+(1/8)" into the x dimension.  This becomes 4.01' once enter is pressed.  Change the y dimension to 0.75", and the z dimension to 1".&lt;/p&gt;
 &lt;p&gt;Scroll the mouse wheel or control-middle-mouse-drag to zoom in on the piece.  Middle-mouse-drag will orbit around it.  &lt;strong&gt;Shift-b&lt;/strong&gt; can be used to draw a rectangle around whatever needs to be viewed and the view will zoom in accordingly.&lt;/p&gt;
 &lt;p&gt;The default view is in perspective mode, recognized by parallel lines converging in the distance.  Orthographic mode, with parallel lines staying parallel, can be entered through the view menu of the 3D window or by pressing &lt;strong&gt;5&lt;/strong&gt; on the numpad.&lt;/p&gt;
 &lt;p&gt;Note the buttons on the numpad are treated differently than similar buttons elsewhere on the keyboard.  For example, &lt;strong&gt;3&lt;/strong&gt; on the numpad will move the view to look at the side of the scene, where &lt;strong&gt;3&lt;/strong&gt; at the top of the keyboard will move to the third layer of the scene; the layers being visualized by the 2 5x2 grids at the bottom of the 3D window.&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Photo" src="http://sluglinux.org/news/Bookshelf-addMenu.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Photo" src="http://sluglinux.org/news/Bookshelf-addMenu.png"&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Shift-a&lt;/strong&gt; will open the add menu.  Add a new cube to the scene by selecting "mesh"&amp;gt;"cube".  This menu can also be accessed through the menubar at the top of the screen by clicking on "Add".&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Photo" src="http://sluglinux.org/news/Bookshelf-viewportShading.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Photo" src="http://sluglinux.org/news/Bookshelf-viewportShading.png"&gt;&lt;/p&gt;
 &lt;p&gt;The screen is looking a little cluttered with the pieces overlapping one another.  Pressing &lt;strong&gt;z&lt;/strong&gt; will change the viewport shading mode to wireframe.  Pressing it again will change it back to shaded.  This can also be achieved with the viewport shading menu located at the bottom of the 3D window.&lt;/p&gt;
 &lt;p&gt;Press &lt;strong&gt;tab&lt;/strong&gt; while the new piece is selected to enter edit mode.  Now the mesh of the object can be manipulated.  This mode can also be selected using the menu at the bottom of the 3D window.  &lt;strong&gt;Control-tab&lt;/strong&gt; will bring up the Mesh Select Mode.  Change the mode to "Edge". Select the front top edge of the object.  &lt;strong&gt;Shift-s&lt;/strong&gt; brings up the snap menu.  It is also found at "Mesh"&amp;gt;"Snap".  Select "Cursor to Selected".  Press &lt;strong&gt;tab&lt;/strong&gt; to go back into object mode.  Press &lt;strong&gt;control-alt-shift-c&lt;/strong&gt; to bring up the Set Origin menu.  Select "Origin to Cursor".  This can also be done through "Object"&amp;gt;"Transform"&amp;gt;"Origin to Cursor".&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Photo" src="http://sluglinux.org/news/Bookshelf-linedUpPieces.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Photo" src="http://sluglinux.org/news/Bookshelf-linedUpPieces.png"&gt;&lt;/p&gt;
 &lt;p&gt;Select the first piece and go into edit mode.  Select the top back edge.  Snap the cursor to the selected edge.  &lt;strong&gt;Tab&lt;/strong&gt; back into object mode and select the second piece.  Snap it to the 3D cursor using the snap menu.  Change its dimensions to x= 4', y= 1'-(3/4)", and z= 0.5".&lt;/p&gt;
 &lt;p&gt;If the view needs to be re-centered, select one of the pieces with the right mouse button, then select the other piece with shift-right-mouse-button.  This is how multiple pieces are selected.  Center the view on the selected objects with "View"&amp;gt;"Align View"&amp;gt;"View Selected" or with &lt;strong&gt;.&lt;/strong&gt; on the numpad.&lt;/p&gt;
 &lt;p&gt;Select the second piece and press &lt;strong&gt;shift-d&lt;/strong&gt; to duplicate it.  This will make a copy of the piece and immediately go into grab mode.  In this mode, the piece will be moved around on a plane perpendicular to the view unless it has been locked to and axis.  Press &lt;strong&gt;z&lt;/strong&gt; to lock the movement to the z axis.  Move it below the other pieces.&lt;/p&gt;
 &lt;p&gt;Move the origin to the right top edge of the newest piece.  Change it's x dimension to 0.5" and the z dimension to 4'-(0.5)".  Line it up with the bottom right edge of the second piece.&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Photo" src="http://sluglinux.org/news/Bookshelf-pivotPoint.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Photo" src="http://sluglinux.org/news/Bookshelf-pivotPoint.png"&gt;&lt;/p&gt;
 &lt;p&gt;Select the first piece and &lt;strong&gt;tab&lt;/strong&gt; into edit mode.  Select the front right edge and snap the cursor to it.  &lt;strong&gt;Tab&lt;/strong&gt; out of edit mode and select the newest piece.  &lt;strong&gt;Tab&lt;/strong&gt; into edit mode, &lt;strong&gt;control-tab&lt;/strong&gt; and select "Face", then select the front face.&lt;/p&gt;
 &lt;p&gt;With the settings as they are now, transformation operations are done relative to the center of whatever is selected.  This relative point is called the pivot point.  Press &lt;strong&gt;s&lt;/strong&gt; and move the mouse around a little.  The shape of the face and it's center remain the same but the size changes.  Pressing &lt;strong&gt;x&lt;/strong&gt;,&lt;strong&gt;y&lt;/strong&gt;, or &lt;strong&gt;z&lt;/strong&gt; will limit this transformation to the particular axis.  Pressing &lt;strong&gt;shift-x&lt;/strong&gt;, &lt;strong&gt;shift-y&lt;/strong&gt;, or &lt;strong&gt;shift-z&lt;/strong&gt; will prevent the transformation from happening on that axis.  Right mouse click to cancel the transformation as the settings are not ready to correctly model the piece.&lt;/p&gt;
 &lt;p&gt;The pivot point needs to be changed to the cursor.  This is done by pressing &lt;strong&gt;.&lt;/strong&gt; on the keyboard or by using the "Pivot Point" menu located next to the "Viewport Shading" menu described earlier.&lt;/p&gt;
 &lt;p&gt;Press &lt;strong&gt;s&lt;/strong&gt; and move the mouse around.  Now the way the face is scaled is completely different.  Press &lt;strong&gt;y&lt;/strong&gt; to lock the transformation to the y axis.  As the mouse gets farther from the pivot point, the face moves farther from it as well.  When the mouse gets closer, the face lines up with the pivot point.  Press &lt;strong&gt;0&lt;/strong&gt; then &lt;strong&gt;enter&lt;/strong&gt; and the face will be perfectly lined up with the cursor.&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Photo" src="http://sluglinux.org/news/Bookshelf-rawBoolean.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Photo" src="http://sluglinux.org/news/Bookshelf-rawBoolean.png"&gt;&lt;/p&gt;
 &lt;p&gt;The problem now is the new piece and the first piece are now intersecting one another.  The first piece can be subtracted from the new piece by using a boolean modifier.  In the properties window, click the wrench icon at the top.  This displays the modifier context.  Click the "Add Modifier" button and select boolean.  Under object, select "Cube", which is the name of the first piece created.  Change the operation to "Difference". Finally, click the "Apply" button.&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Photo" src="http://sluglinux.org/news/Bookshelf-finalBoolean.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Photo" src="http://sluglinux.org/news/Bookshelf-finalBoolean.png"&gt;&lt;/p&gt;
 &lt;p&gt;Check to make sure the operation didn't mangle the piece.  With the newest piece still selected, press &lt;strong&gt;control-i&lt;/strong&gt; to invert the selection.  Pressing &lt;strong&gt;h&lt;/strong&gt; will hide all selected objects.  Now only the newest piece should be visible.  Press &lt;strong&gt;z&lt;/strong&gt; if viewport shading is still set to wireframe.  Make sure the piece doesn't have any weird faces where there shouldn't be.  If there are, some vertices may have to be removed.  &lt;strong&gt;X&lt;/strong&gt; can be used to remove them.  If a necessary face gets destroyed, it can be recreated by selecting the vertices that made it up, then pressing &lt;strong&gt;f&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;Once the piece looks correct, &lt;strong&gt;tab&lt;/strong&gt; back into object mode.  Everything can be unhidden by pressing &lt;strong&gt;alt-h&lt;/strong&gt;.  Select the front piece and snap the cursor to it.  Select the newest piece and go into edit mode. Pressing &lt;strong&gt;a&lt;/strong&gt; with something selected with deselect everything. Pressing it again will select everything.&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Photo" src="http://sluglinux.org/news/Bookshelf-mirroredSides.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Photo" src="http://sluglinux.org/news/Bookshelf-mirroredSides.png"&gt;&lt;/p&gt;
 &lt;p&gt;With everything selected and the pivot point still set to the cursor, duplicate the piece with &lt;strong&gt;shift-d&lt;/strong&gt;, press &lt;strong&gt;s&lt;/strong&gt; to scale it, press &lt;strong&gt;x&lt;/strong&gt; to lock the transformation to the x axis, then type -1, and finally &lt;strong&gt;enter&lt;/strong&gt;. This will make a mirrored copy of whatever is selected, centered where ever the pivot point is located.&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Photo" src="http://sluglinux.org/news/Bookshelf-edgesSelected.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Photo" src="http://sluglinux.org/news/Bookshelf-edgesSelected.png"&gt;&lt;/p&gt;
 &lt;p&gt;Select the back inner edges of each side piece with shift-right-mouse-click.  Duplicate the edges with &lt;strong&gt;shift-d&lt;/strong&gt;.  Moving the mouse around a little shows the new edges are not connected to the other pieces at all.  Right mouse click to cancel the transformation.  The duplication of the edges still occurred; all that was canceled was the transformation.  With the new edges still selected, press &lt;strong&gt;p&lt;/strong&gt; and select "Selection" to separate them into their own object.  &lt;strong&gt;Tab&lt;/strong&gt; into object mode.&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Photo" src="http://sluglinux.org/news/Bookshelf-backFinished.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Photo" src="http://sluglinux.org/news/Bookshelf-backFinished.png"&gt;&lt;/p&gt;
 &lt;p&gt;Placing the mouse cursor where the new edges where created and right clicking will bounce between selecting the new edges and the sides. Select the new edges and tab into edit mode.  Select everything by pressing &lt;strong&gt;a&lt;/strong&gt; and create a new face by pressing &lt;strong&gt;f&lt;/strong&gt;.  With the new face selected, press &lt;strong&gt;e&lt;/strong&gt; to begin extruding it.  Extruding is like the previous duplication process but the new face is still connected to the old face.  By doing this, an new cube is being created by hand. Just like the duplication process, right clicking will cancel the transformation of the new face but not the creation of it.  Cancel the translation.&lt;/p&gt;
 &lt;p&gt;In the properties panel, under the median values, are two buttons: global and local.  These refer to how the median values are interpreted.  The default is local.  If half an inch is subtracted from one of these values while local is selected, that half an inch measurement will be subjected to the scaling of that axis.  If the object is scaled along the y-axis 0.5, the half an inch transformation of the median will have a global effect of only a quarter of an inch.  For this operation to work, global should be selected.  Left click on the y value of the median and subtract 0.5" from the value already there, 11.625"-0.5".&lt;/p&gt;
 &lt;p&gt;Select the inner bottom edge of the back piece and snap the cursor to it.  Make a duplicate of the second piece created, the one that forms the top of the bookshelf.  Snap it to the cursor.  Press &lt;strong&gt;r&lt;/strong&gt; to begin rotating it.  Press &lt;strong&gt;x&lt;/strong&gt; to lock it to the x axis, then type 180, then &lt;strong&gt;enter&lt;/strong&gt; to flip it over.  Change its x dimension to 4'-1" and its y dimension to 1'-0.5".&lt;/p&gt;
 &lt;p&gt;Duplicate this bottom piece a couple times to make the individual shelves.  Using the techniques described, try to make the shelves all evenly spaced apart.&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Photo" src="http://sluglinux.org/news/Bookshelf-completedBookshelf.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Photo" src="http://sluglinux.org/news/Bookshelf-completedBookshelf.png"&gt;&lt;/p&gt;
 &lt;p&gt;Once all the pieces are created and in place, select them all and join them together with control-j.  Place the origin some place useful like the back bottom edge.  This makes it easy to place in a more complex scene like an apartment.  It could even be textured now but that is another tutorial.&lt;/p&gt;
 &lt;p&gt;shortcuts used:&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;  spacebar = search function
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;  spacebar = search function
   ctrl-z = undo
   n = opens the properties panel
   shift-b = zoom boarder
@@ -293,7 +369,22 @@ Time: 6:00 PM to whenever&lt;/p&gt;
   a = select/deselect everything
   p = separate selected vertices, edges, and faces from current object
   f = extrude selected vertices, edges, or faces
-&lt;/pre&gt;&lt;/div&gt;</summary><category term="blender"></category></entry><entry><title>Minutes 2014-03-13</title><link href="http://sluglinux.org/minutes/2014-03-13.html" rel="alternate"></link><updated>2014-03-13T00:00:00-05:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2014-03-13:minutes/2014-03-13.html</id><summary type="html">&lt;!---
+&lt;/pre&gt;&lt;/div&gt;</content><category term="blender"></category></entry><entry><title>Minutes 2014-03-13</title><link href="http://sluglinux.org/minutes/2014-03-13.html" rel="alternate"></link><published>2014-03-13T00:00:00-05:00</published><updated>2014-03-13T00:00:00-05:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2014-03-13:/minutes/2014-03-13.html</id><summary type="html">&lt;!---
+Summary:
+--&gt;
+
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;p&gt;Siouxland Libraries Main Branch, Downtown Sioux Falls Room: Main
+Conference Room Date: Thursday, March 13, 2014 Time: 6:00 PM to 9:00 PM&lt;/p&gt;
+&lt;h2&gt;Agenda&lt;/h2&gt;
+&lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Plans are nothing; planning is everything. - Dwight D. Eisenhower&lt;/li&gt;
+&lt;li&gt;My experience using the animation program, Blender, for CAD - Mr. Tuttle&lt;/li&gt;
+&lt;li&gt;ownCloud 6 - nickermire&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Feel …&lt;/p&gt;</summary><content type="html">&lt;!---
 Summary:
 --&gt;
 
@@ -322,10 +413,24 @@ welcome!&lt;/p&gt;
 &lt;h2&gt;Directions&lt;/h2&gt;
 &lt;p&gt;&lt;a href="http://www.openstreetmap.org/?mlat=43.54935&amp;amp;mlon&amp;gt;=-96.72901&amp;amp;zoom=1"&gt;OpenStreetMap&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://maps.google.com/maps?q=sioux+falls,+sd+main+library&amp;amp;hl=en&amp;amp;ll=43.54805&amp;gt;,-96.729984&amp;amp;spn=0.04025,0.083084&amp;amp;sll=44.2127,-100.247164&amp;amp;sspn=5.094294,10.634766&amp;amp;t=m&amp;amp;hq=main+library&amp;amp;hnear=Sioux+Falls,+Minnehaha,+South+Dakota&amp;amp;z=1"&gt;Google
-maps&lt;/a&gt;&lt;/p&gt;</summary><category term="owncloud"></category><category term="blender"></category><category term="cad"></category><category term="virtualization"></category><category term="zfs"></category><category term="filesystems"></category><category term="security"></category></entry><entry><title>Minutes 2014-01-16</title><link href="http://sluglinux.org/minutes/2014-01-16.html" rel="alternate"></link><updated>2014-01-16T00:00:00-06:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2014-01-16:minutes/2014-01-16.html</id><summary type="html">&lt;h1&gt;Location&lt;/h1&gt;
-&lt;p&gt;Siouxland Libraries Main Branch&lt;br /&gt;
-Room: Main Meeting Room B&lt;br /&gt;
-Date: Thursday, January 16, 2014&lt;br /&gt;
+maps&lt;/a&gt;&lt;/p&gt;</content><category term="owncloud"></category><category term="blender"></category><category term="cad"></category><category term="virtualization"></category><category term="zfs"></category><category term="filesystems"></category><category term="security"></category></entry><entry><title>Minutes 2014-01-16</title><link href="http://sluglinux.org/minutes/2014-01-16.html" rel="alternate"></link><published>2014-01-16T00:00:00-06:00</published><updated>2014-01-16T00:00:00-06:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2014-01-16:/minutes/2014-01-16.html</id><summary type="html">&lt;h1&gt;Location&lt;/h1&gt;
+&lt;p&gt;Siouxland Libraries Main Branch&lt;br&gt;
+Room: Main Meeting Room B&lt;br&gt;
+Date: Thursday, January 16, 2014&lt;br&gt;
+Time: 6:00 PM to 8:30 PM  &lt;/p&gt;
+&lt;h1&gt;Agenda&lt;/h1&gt;
+&lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Still moving forward with quarterly meetings.&lt;ul&gt;
+&lt;li&gt;Next meeting will be in January 2014 to avoid holiday plans.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Migrating from screen to tmux&lt;/li&gt;
+&lt;li&gt;weechat, relays and the …&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;h1&gt;Location&lt;/h1&gt;
+&lt;p&gt;Siouxland Libraries Main Branch&lt;br&gt;
+Room: Main Meeting Room B&lt;br&gt;
+Date: Thursday, January 16, 2014&lt;br&gt;
 Time: 6:00 PM to 8:30 PM  &lt;/p&gt;
 &lt;h1&gt;Agenda&lt;/h1&gt;
 &lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
@@ -350,10 +455,10 @@ welcome!&lt;/p&gt;
 &lt;p&gt;&lt;a href="http://www.openstreetmap.org/?mlat=43.54935&amp;amp;mlon&amp;gt;=-96.72901&amp;amp;zoom=12
 OpenStreetMa"&gt;OpenStreetMap&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://maps.google.com/maps?q=sioux+falls,+sd+main+library&amp;amp;hl=en&amp;amp;ll=43.54805&amp;gt;,-96.729984&amp;amp;spn=0.04025,0.083084&amp;amp;sll=44.2127,-100.247164&amp;amp;sspn=5.094294,10.634766&amp;amp;t=m&amp;amp;hq=main+library&amp;amp;hnear=Sioux+Falls,+Minnehaha,+South+Dakota&amp;amp;z=14
-Google map"&gt;Google Maps&lt;/a&gt;&lt;/p&gt;</summary><category term="weechat"></category><category term="irc"></category><category term="screen"></category><category term="tmux"></category><category term="wayland"></category><category term="owncloud"></category><category term="keepass"></category></entry><entry><title>Minutes 2013-09-19</title><link href="http://sluglinux.org/minutes/2013-09-19.html" rel="alternate"></link><updated>2013-09-19T00:00:00-05:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2013-09-19:minutes/2013-09-19.html</id><summary type="html">&lt;h1&gt;Location&lt;/h1&gt;
-&lt;p&gt;Siouxland Libraries Main Branch&lt;br /&gt;
-Room: Main Meeting Room B&lt;br /&gt;
-Date: Thursday, September 19, 2013&lt;br /&gt;
+Google map"&gt;Google Maps&lt;/a&gt;&lt;/p&gt;</content><category term="weechat"></category><category term="irc"></category><category term="screen"></category><category term="tmux"></category><category term="wayland"></category><category term="owncloud"></category><category term="keepass"></category></entry><entry><title>Minutes 2013-09-19</title><link href="http://sluglinux.org/minutes/2013-09-19.html" rel="alternate"></link><published>2013-09-19T00:00:00-05:00</published><updated>2013-09-19T00:00:00-05:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2013-09-19:/minutes/2013-09-19.html</id><summary type="html">&lt;p&gt;Lots of notes in the minutes here.&lt;/p&gt;</summary><content type="html">&lt;h1&gt;Location&lt;/h1&gt;
+&lt;p&gt;Siouxland Libraries Main Branch&lt;br&gt;
+Room: Main Meeting Room B&lt;br&gt;
+Date: Thursday, September 19, 2013&lt;br&gt;
 Time: 6:00 PM to 8:30 PM  &lt;/p&gt;
 &lt;h1&gt;Minutes&lt;/h1&gt;
 &lt;ul&gt;
@@ -410,10 +515,24 @@ Time: 6:00 PM to 8:30 PM  &lt;/p&gt;
     into good programming practices.&lt;/li&gt;
 &lt;li&gt;System services and daemons were also discussed, which brought up
     &lt;a href="http://mmonit.com/monit/"&gt;Monit&lt;/a&gt; and &lt;a href="http://mmonit.com/"&gt;M/Monit&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;</summary><category term="linux from scratch"></category><category term="sparkleshare"></category><category term="distros"></category><category term="monit"></category><category term="perl"></category></entry><entry><title>Minutes 2013-06-20</title><link href="http://sluglinux.org/minutes/2013-06-20.html" rel="alternate"></link><updated>2013-06-20T00:00:00-05:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2013-06-20:minutes/2013-06-20.html</id><summary type="html">&lt;h1&gt;Location&lt;/h1&gt;
-&lt;p&gt;Siouxland Libraries Main Branch&lt;br /&gt;
-Room: Main Meeting Room B&lt;br /&gt;
-Date: Thursday, June 20, 2013&lt;br /&gt;
+&lt;/ul&gt;</content><category term="linux from scratch"></category><category term="sparkleshare"></category><category term="distros"></category><category term="monit"></category><category term="perl"></category></entry><entry><title>Minutes 2013-06-20</title><link href="http://sluglinux.org/minutes/2013-06-20.html" rel="alternate"></link><published>2013-06-20T00:00:00-05:00</published><updated>2013-06-20T00:00:00-05:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2013-06-20:/minutes/2013-06-20.html</id><summary type="html">&lt;h1&gt;Location&lt;/h1&gt;
+&lt;p&gt;Siouxland Libraries Main Branch&lt;br&gt;
+Room: Main Meeting Room B&lt;br&gt;
+Date: Thursday, June 20, 2013&lt;br&gt;
+Time: 6:00 PM to 8:30 PM  &lt;/p&gt;
+&lt;h1&gt;Agenda&lt;/h1&gt;
+&lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Projects I have been working on are&lt;/li&gt;
+&lt;li&gt;xmonad&lt;/li&gt;
+&lt;li&gt;synergy 3 computer 4 monitor setup&lt;/li&gt;
+&lt;li&gt;gitlab&lt;/li&gt;
+&lt;li&gt;update from squeeze to wheezy stable&lt;/li&gt;
+&lt;li&gt;migrate from apache to nginx …&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;h1&gt;Location&lt;/h1&gt;
+&lt;p&gt;Siouxland Libraries Main Branch&lt;br&gt;
+Room: Main Meeting Room B&lt;br&gt;
+Date: Thursday, June 20, 2013&lt;br&gt;
 Time: 6:00 PM to 8:30 PM  &lt;/p&gt;
 &lt;h1&gt;Agenda&lt;/h1&gt;
 &lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
@@ -440,7 +559,11 @@ welcome!&lt;/p&gt;
 &lt;p&gt;&lt;a href="http://www.openstreetmap.org/?mlat=43.54935&amp;amp;mlon&amp;gt;=-96.72901&amp;amp;zoom=12
 OpenStreetMa"&gt;OpenStreetMap&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://maps.google.com/maps?q=sioux+falls,+sd+main+library&amp;amp;hl=en&amp;amp;ll=43.54805&amp;gt;,-96.729984&amp;amp;spn=0.04025,0.083084&amp;amp;sll=44.2127,-100.247164&amp;amp;sspn=5.094294,10.634766&amp;amp;t=m&amp;amp;hq=main+library&amp;amp;hnear=Sioux+Falls,+Minnehaha,+South+Dakota&amp;amp;z=14
-Google map"&gt;Google Maps&lt;/a&gt;&lt;/p&gt;</summary><category term="xmonad"></category><category term="synergy"></category><category term="gitlab"></category><category term="debian"></category><category term="apache"></category><category term="nginx"></category><category term="rdiff-backup"></category><category term="tmux"></category><category term="screen"></category></entry><entry><title>New meeting and new location on June 20th 2013</title><link href="http://sluglinux.org/news/2013-05-31.html" rel="alternate"></link><updated>2013-05-31T00:00:00-05:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2013-05-31:news/2013-05-31.html</id><summary type="html">&lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
+Google map"&gt;Google Maps&lt;/a&gt;&lt;/p&gt;</content><category term="xmonad"></category><category term="synergy"></category><category term="gitlab"></category><category term="debian"></category><category term="apache"></category><category term="nginx"></category><category term="rdiff-backup"></category><category term="tmux"></category><category term="screen"></category></entry><entry><title>New meeting and new location on June 20th 2013</title><link href="http://sluglinux.org/news/2013-05-31.html" rel="alternate"></link><published>2013-05-31T00:00:00-05:00</published><updated>2013-05-31T00:00:00-05:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2013-05-31:/news/2013-05-31.html</id><summary type="html">&lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
+
+&lt;p&gt;The next meeting will be held at a new location, the Siouxland Libraries Main branch downtown Sioux Falls.&lt;/p&gt;
+&lt;p&gt;The idea is to have plenty of topics to discuss. If there is interest we can go over these topics in depth.&lt;/p&gt;
+&lt;p&gt;Some of the ideas that we have so far are …&lt;/p&gt;</summary><content type="html">&lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
 
 &lt;p&gt;The next meeting will be held at a new location, the Siouxland Libraries Main branch downtown Sioux Falls.&lt;/p&gt;
 &lt;p&gt;The idea is to have plenty of topics to discuss. If there is interest we can go over these topics in depth.&lt;/p&gt;
@@ -455,7 +578,18 @@ Google map"&gt;Google Maps&lt;/a&gt;&lt;/p&gt;</summary><category term="xmonad">
 &lt;li&gt;&lt;a href="http://tmux.sourceforge.net/"&gt;tmux&lt;/a&gt; and &lt;a href="http://www.gnu.org/software/screen/"&gt;screen&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;What we don't get a chance to cover during this meeting can be pushed to the next meeting. You can submit your ideas to the mailing list by sending an email to sluglinux@googlegroups.com. Please check out the meeting page for more information. &lt;/p&gt;
-&lt;!-- PELICAN_END_SUMMARY --&gt;</summary><category term="slug"></category><category term="meetings"></category></entry><entry><title>Minutes 2013-01-17</title><link href="http://sluglinux.org/minutes/2013-01-17.html" rel="alternate"></link><updated>2013-01-17T00:00:00-06:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2013-01-17:minutes/2013-01-17.html</id><summary type="html">&lt;h1&gt;Location&lt;/h1&gt;
+&lt;!-- PELICAN_END_SUMMARY --&gt;</content><category term="slug"></category><category term="meetings"></category></entry><entry><title>Minutes 2013-01-17</title><link href="http://sluglinux.org/minutes/2013-01-17.html" rel="alternate"></link><published>2013-01-17T00:00:00-06:00</published><updated>2013-01-17T00:00:00-06:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2013-01-17:/minutes/2013-01-17.html</id><summary type="html">&lt;h1&gt;Location&lt;/h1&gt;
+&lt;p&gt;Siouxland Libraries Oak View Branch, Room 3 at 6:30 pm.&lt;/p&gt;
+&lt;h1&gt;Agenda&lt;/h1&gt;
+&lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Feel free to add to topics you would like to discuss!
+&lt;!-- PELICAN_END_SUMMARY --&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Directions&lt;/h2&gt;
+&lt;p&gt;To get to the Oak View branch from the west, take Sixth Street east to
+North Bahnson Ave. Turn left at the light, and drive …&lt;/p&gt;</summary><content type="html">&lt;h1&gt;Location&lt;/h1&gt;
 &lt;p&gt;Siouxland Libraries Oak View Branch, Room 3 at 6:30 pm.&lt;/p&gt;
 &lt;h1&gt;Agenda&lt;/h1&gt;
 &lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
@@ -473,7 +607,19 @@ intersection.&lt;/p&gt;
 near North Bahnson (about six blocks). The library will be on your
 right.&lt;/p&gt;
 &lt;p&gt;There is no cost to attend the meeting or to join. New members are
-welcome!&lt;/p&gt;</summary></entry><entry><title>Minutes 2012-12-20</title><link href="http://sluglinux.org/minutes/2012-12-20.html" rel="alternate"></link><updated>2012-12-20T00:00:00-06:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2012-12-20:minutes/2012-12-20.html</id><summary type="html">&lt;h1&gt;Location&lt;/h1&gt;
+welcome!&lt;/p&gt;</content></entry><entry><title>Minutes 2012-12-20</title><link href="http://sluglinux.org/minutes/2012-12-20.html" rel="alternate"></link><published>2012-12-20T00:00:00-06:00</published><updated>2012-12-20T00:00:00-06:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2012-12-20:/minutes/2012-12-20.html</id><summary type="html">&lt;h1&gt;Location&lt;/h1&gt;
+&lt;p&gt;Siouxland Libraries Oak View Branch, Room 3 at 6:30 pm.&lt;/p&gt;
+&lt;h1&gt;Minutes&lt;/h1&gt;
+&lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Presentation on NAS by phliver
+&lt;!-- PELICAN_END_SUMMARY --&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Please feel free to add to the list of topics to discuss.&lt;/p&gt;
+&lt;h2&gt;Directions&lt;/h2&gt;
+&lt;p&gt;To get to the Oak View branch from the west, take Sixth Street east to
+North Bahnson Ave. Turn …&lt;/p&gt;</summary><content type="html">&lt;h1&gt;Location&lt;/h1&gt;
 &lt;p&gt;Siouxland Libraries Oak View Branch, Room 3 at 6:30 pm.&lt;/p&gt;
 &lt;h1&gt;Minutes&lt;/h1&gt;
 &lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
@@ -492,7 +638,19 @@ intersection.&lt;/p&gt;
 near North Bahnson (about six blocks). The library will be on your
 right.&lt;/p&gt;
 &lt;p&gt;There is no cost to attend the meeting or to join. New members are
-welcome!&lt;/p&gt;</summary><category term="presentation"></category><category term="nas"></category></entry><entry><title>Minutes 2012-11-15</title><link href="http://sluglinux.org/minutes/2012-11-15.html" rel="alternate"></link><updated>2012-11-15T00:00:00-06:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2012-11-15:minutes/2012-11-15.html</id><summary type="html">&lt;h1&gt;Location&lt;/h1&gt;
+welcome!&lt;/p&gt;</content><category term="presentation"></category><category term="nas"></category></entry><entry><title>Minutes 2012-11-15</title><link href="http://sluglinux.org/minutes/2012-11-15.html" rel="alternate"></link><published>2012-11-15T00:00:00-06:00</published><updated>2012-11-15T00:00:00-06:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2012-11-15:/minutes/2012-11-15.html</id><summary type="html">&lt;h1&gt;Location&lt;/h1&gt;
+&lt;p&gt;Siouxland Libraries Oak View Branch, Room 3 at 6:30 pm.&lt;/p&gt;
+&lt;h1&gt;Minutes&lt;/h1&gt;
+&lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Steam on linux.&lt;/li&gt;
+&lt;li&gt;Opello demonstrated his Raspberry Pi
+&lt;!-- PELICAN_END_SUMMARY --&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Directions&lt;/h2&gt;
+&lt;p&gt;To get to the Oak View branch from the west, take Sixth Street east to
+North Bahnson Ave. Turn left at the light, and drive three blocks north …&lt;/p&gt;</summary><content type="html">&lt;h1&gt;Location&lt;/h1&gt;
 &lt;p&gt;Siouxland Libraries Oak View Branch, Room 3 at 6:30 pm.&lt;/p&gt;
 &lt;h1&gt;Minutes&lt;/h1&gt;
 &lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
@@ -511,7 +669,17 @@ intersection.&lt;/p&gt;
 near North Bahnson (about six blocks). The library will be on your
 right.&lt;/p&gt;
 &lt;p&gt;There is no cost to attend the meeting or to join. New members are
-welcome!&lt;/p&gt;</summary><category term="steam"></category><category term="raspberry pi"></category></entry><entry><title>Minutes 2012-10-18</title><link href="http://sluglinux.org/minutes/2012-10-18.html" rel="alternate"></link><updated>2012-10-18T00:00:00-05:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2012-10-18:minutes/2012-10-18.html</id><summary type="html">&lt;h1&gt;Location&lt;/h1&gt;
+welcome!&lt;/p&gt;</content><category term="steam"></category><category term="raspberry pi"></category></entry><entry><title>Minutes 2012-10-18</title><link href="http://sluglinux.org/minutes/2012-10-18.html" rel="alternate"></link><published>2012-10-18T00:00:00-05:00</published><updated>2012-10-18T00:00:00-05:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2012-10-18:/minutes/2012-10-18.html</id><summary type="html">&lt;h1&gt;Location&lt;/h1&gt;
+&lt;p&gt;Siouxland Libraries Oak View Branch, Room 3 at 6:30 pm.&lt;/p&gt;
+&lt;p&gt;The room will open at 5 pm for setup.&lt;/p&gt;
+&lt;p&gt;A general help session will begin at 5:30 pm.&lt;/p&gt;
+&lt;h1&gt;Minutes&lt;/h1&gt;
+&lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
+
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;MrTuttle spoke about some bad decisions he made in his life that led
+    to getting the cops called …&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;h1&gt;Location&lt;/h1&gt;
 &lt;p&gt;Siouxland Libraries Oak View Branch, Room 3 at 6:30 pm.&lt;/p&gt;
 &lt;p&gt;The room will open at 5 pm for setup.&lt;/p&gt;
 &lt;p&gt;A general help session will begin at 5:30 pm.&lt;/p&gt;
@@ -533,7 +701,16 @@ welcome!&lt;/p&gt;</summary><category term="steam"></category><category term="ra
     South Dakota Code Camp and is looking for ideas.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Please feel free to add to the list.&lt;/p&gt;</summary><category term="programming"></category><category term="raspberry pi"></category></entry><entry><title>Minutes 2012-07-19</title><link href="http://sluglinux.org/minutes/2012-07-19.html" rel="alternate"></link><updated>2012-07-19T00:00:00-05:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2012-07-19:minutes/2012-07-19.html</id><summary type="html">&lt;h1&gt;Notice&lt;/h1&gt;
+&lt;p&gt;Please feel free to add to the list.&lt;/p&gt;</content><category term="programming"></category><category term="raspberry pi"></category></entry><entry><title>Minutes 2012-07-19</title><link href="http://sluglinux.org/minutes/2012-07-19.html" rel="alternate"></link><published>2012-07-19T00:00:00-05:00</published><updated>2012-07-19T00:00:00-05:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2012-07-19:/minutes/2012-07-19.html</id><summary type="html">&lt;h1&gt;Notice&lt;/h1&gt;
+&lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
+
+&lt;p&gt;We have been having a summery cookout instead of a meeting. We should
+decide if we want to have something like that again or just a regular
+meeting.
+&lt;!-- PELICAN_END_SUMMARY --&gt;&lt;/p&gt;
+&lt;p&gt;For now we will plan to just have a meeting, but should certainly
+consider the social event.&lt;/p&gt;
+&lt;p&gt;I'm also not sure …&lt;/p&gt;</summary><content type="html">&lt;h1&gt;Notice&lt;/h1&gt;
 &lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
 
 &lt;p&gt;We have been having a summery cookout instead of a meeting. We should
@@ -563,7 +740,13 @@ right.&lt;/p&gt;
 &lt;p&gt;There is no cost to attend the meeting or to join. New members are
 welcome!&lt;/p&gt;
 &lt;h1&gt;Minutes&lt;/h1&gt;
-&lt;p&gt;TODO&lt;/p&gt;</summary><category term="cookout"></category></entry><entry><title>Minutes 2012-06-21</title><link href="http://sluglinux.org/minutes/2012-06-21.html" rel="alternate"></link><updated>2012-06-21T00:00:00-05:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2012-06-21:minutes/2012-06-21.html</id><summary type="html">&lt;h1&gt;Location&lt;/h1&gt;
+&lt;p&gt;TODO&lt;/p&gt;</content><category term="cookout"></category></entry><entry><title>Minutes 2012-06-21</title><link href="http://sluglinux.org/minutes/2012-06-21.html" rel="alternate"></link><published>2012-06-21T00:00:00-05:00</published><updated>2012-06-21T00:00:00-05:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2012-06-21:/minutes/2012-06-21.html</id><summary type="html">&lt;h1&gt;Location&lt;/h1&gt;
+&lt;p&gt;Siouxland Libraries Oak View Branch, Room 3 at 6:30 pm.&lt;/p&gt;
+&lt;p&gt;The room will open at 5 pm for setup.&lt;/p&gt;
+&lt;p&gt;A general help session will begin at 5:30 pm.&lt;/p&gt;
+&lt;h1&gt;Agenda&lt;/h1&gt;
+&lt;p&gt;It's open mic night at the Siouxland Linux User Group!&lt;/p&gt;
+&lt;p&gt;Tell us what you've been working on, or …&lt;/p&gt;</summary><content type="html">&lt;h1&gt;Location&lt;/h1&gt;
 &lt;p&gt;Siouxland Libraries Oak View Branch, Room 3 at 6:30 pm.&lt;/p&gt;
 &lt;p&gt;The room will open at 5 pm for setup.&lt;/p&gt;
 &lt;p&gt;A general help session will begin at 5:30 pm.&lt;/p&gt;
@@ -600,7 +783,16 @@ Debian Squeeze.&lt;/p&gt;
 &lt;a href="http://fluxbox.org/"&gt;Fluxbox&lt;/a&gt; for being minimal. The Debian laptop was
 running &lt;a href="http://www.xfce.org/"&gt;Xfce&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Rob and Dan had a post-meeting discussion about Arduino and Rob's
-thermostat control and home automation projects.&lt;/p&gt;</summary><category term="distros"></category><category term="revolution os"></category><category term="fluxbox"></category><category term="debian"></category><category term="firefox"></category></entry><entry><title>Minutes 2012-05-17</title><link href="http://sluglinux.org/minutes/2012-05-17.html" rel="alternate"></link><updated>2012-05-17T00:00:00-05:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2012-05-17:minutes/2012-05-17.html</id><summary type="html">&lt;h1&gt;Location&lt;/h1&gt;
+thermostat control and home automation projects.&lt;/p&gt;</content><category term="distros"></category><category term="revolution os"></category><category term="fluxbox"></category><category term="debian"></category><category term="firefox"></category></entry><entry><title>Minutes 2012-05-17</title><link href="http://sluglinux.org/minutes/2012-05-17.html" rel="alternate"></link><published>2012-05-17T00:00:00-05:00</published><updated>2012-05-17T00:00:00-05:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2012-05-17:/minutes/2012-05-17.html</id><summary type="html">&lt;h1&gt;Location&lt;/h1&gt;
+&lt;p&gt;Siouxland Libraries Oak View Branch, Room 3 at 6:30 pm.&lt;/p&gt;
+&lt;p&gt;The room will open at 5 pm for setup.&lt;/p&gt;
+&lt;p&gt;A general help session will begin at 5:30 pm.&lt;/p&gt;
+&lt;h1&gt;Agenda&lt;/h1&gt;
+&lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
+
+&lt;p&gt;It's open mic night at the Siouxland Linux User Group!
+&lt;!-- PELICAN_END_SUMMARY --&gt;&lt;/p&gt;
+&lt;p&gt;Tell us what you've been working on, or …&lt;/p&gt;</summary><content type="html">&lt;h1&gt;Location&lt;/h1&gt;
 &lt;p&gt;Siouxland Libraries Oak View Branch, Room 3 at 6:30 pm.&lt;/p&gt;
 &lt;p&gt;The room will open at 5 pm for setup.&lt;/p&gt;
 &lt;p&gt;A general help session will begin at 5:30 pm.&lt;/p&gt;
@@ -624,7 +816,15 @@ near North Bahnson (about six blocks). The library will be on your
 right.&lt;/p&gt;
 &lt;p&gt;There is no cost to attend the meeting or to join. New members are
 welcome!&lt;/p&gt;
-&lt;h1&gt;Minutes&lt;/h1&gt;</summary></entry><entry><title>DokotaCon recap</title><link href="http://sluglinux.org/news/2012-04-29.html" rel="alternate"></link><updated>2012-04-29T00:00:00-05:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2012-04-29:news/2012-04-29.html</id><summary type="html">&lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
+&lt;h1&gt;Minutes&lt;/h1&gt;</content></entry><entry><title>DokotaCon recap</title><link href="http://sluglinux.org/news/2012-04-29.html" rel="alternate"></link><published>2012-04-29T00:00:00-05:00</published><updated>2012-04-29T00:00:00-05:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2012-04-29:/news/2012-04-29.html</id><summary type="html">&lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
+
+&lt;p&gt;In case you missed the 2012 &lt;a href="http://dakotacon.org/"&gt;DakotaCon&lt;/a&gt; I have put together some links. If you have anything to contribute please leave it in the comments or &lt;a href="mailto:phliver@gmail.com"&gt;email me&lt;/a&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;There was quite a bit of activity on the &lt;a href="http://twitter.com/#!/search/dakotacon"&gt;#dakotacon&lt;/a&gt;. There are a few pictures that people published.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="http://www.sdpb.org/newsite/shows.aspx?MediaID=60666&amp;amp;Parmtype=RADIO&amp;amp;ParmAccessLevel=sdpb-all"&gt;Dr. Josh Pauli and …&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
 
 &lt;p&gt;In case you missed the 2012 &lt;a href="http://dakotacon.org/"&gt;DakotaCon&lt;/a&gt; I have put together some links. If you have anything to contribute please leave it in the comments or &lt;a href="mailto:phliver@gmail.com"&gt;email me&lt;/a&gt;.&lt;/p&gt;
 &lt;ul&gt;
@@ -643,7 +843,13 @@ welcome!&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Keloland ran a &lt;a href="http://www.keloland.com/NewsDetail6162.cfm?Id=130946"&gt;story&lt;/a&gt; about DakotaCon. 
 &lt;!-- PELICAN_END_SUMMARY --&gt;&lt;/li&gt;
-&lt;/ul&gt;</summary><category term="dakotacon"></category><category term="security"></category></entry><entry><title>Minutes 2012-04-19</title><link href="http://sluglinux.org/minutes/2012-04-19.html" rel="alternate"></link><updated>2012-04-19T00:00:00-05:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2012-04-19:minutes/2012-04-19.html</id><summary type="html">&lt;h1&gt;Location&lt;/h1&gt;
+&lt;/ul&gt;</content><category term="dakotacon"></category><category term="security"></category></entry><entry><title>Minutes 2012-04-19</title><link href="http://sluglinux.org/minutes/2012-04-19.html" rel="alternate"></link><published>2012-04-19T00:00:00-05:00</published><updated>2012-04-19T00:00:00-05:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2012-04-19:/minutes/2012-04-19.html</id><summary type="html">&lt;h1&gt;Location&lt;/h1&gt;
+&lt;p&gt;Siouxland Libraries Oak View Branch, Room 3 at 6:30 pm.&lt;/p&gt;
+&lt;p&gt;The room will open at 5 pm for setup.&lt;/p&gt;
+&lt;p&gt;A general help session will begin at 5:30 pm.&lt;/p&gt;
+&lt;h1&gt;Agenda&lt;/h1&gt;
+&lt;p&gt;It's open mic night at the Siouxland Linux User Group!&lt;/p&gt;
+&lt;p&gt;Tell us what you've been working on, or …&lt;/p&gt;</summary><content type="html">&lt;h1&gt;Location&lt;/h1&gt;
 &lt;p&gt;Siouxland Libraries Oak View Branch, Room 3 at 6:30 pm.&lt;/p&gt;
 &lt;p&gt;The room will open at 5 pm for setup.&lt;/p&gt;
 &lt;p&gt;A general help session will begin at 5:30 pm.&lt;/p&gt;
@@ -669,7 +875,13 @@ welcome!&lt;/p&gt;
 
 &lt;p&gt;Vector demonstrated &lt;a href="http://www.endian.com/us/"&gt;endian&lt;/a&gt; for use as a
 content filtering solution in a virtual machine.
-&lt;!-- PELICAN_END_SUMMARY --&gt;&lt;/p&gt;</summary><category term="endian"></category><category term="virtualization"></category></entry><entry><title>Minutes 2012-03-15</title><link href="http://sluglinux.org/minutes/2012-03-15.html" rel="alternate"></link><updated>2012-03-15T00:00:00-05:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2012-03-15:minutes/2012-03-15.html</id><summary type="html">&lt;h1&gt;Location&lt;/h1&gt;
+&lt;!-- PELICAN_END_SUMMARY --&gt;&lt;/p&gt;</content><category term="endian"></category><category term="virtualization"></category></entry><entry><title>Minutes 2012-03-15</title><link href="http://sluglinux.org/minutes/2012-03-15.html" rel="alternate"></link><published>2012-03-15T00:00:00-05:00</published><updated>2012-03-15T00:00:00-05:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2012-03-15:/minutes/2012-03-15.html</id><summary type="html">&lt;h1&gt;Location&lt;/h1&gt;
+&lt;p&gt;Siouxland Libraries Oak View Branch, Room 3 at 6:30 pm.&lt;/p&gt;
+&lt;p&gt;The room will open at 5 pm for setup.&lt;/p&gt;
+&lt;p&gt;A general help session will begin at 5:30 pm.&lt;/p&gt;
+&lt;h1&gt;Agenda&lt;/h1&gt;
+&lt;p&gt;It's open mic night at the Siouxland Linux User Group!&lt;/p&gt;
+&lt;p&gt;Tell us what you've been working on, or …&lt;/p&gt;</summary><content type="html">&lt;h1&gt;Location&lt;/h1&gt;
 &lt;p&gt;Siouxland Libraries Oak View Branch, Room 3 at 6:30 pm.&lt;/p&gt;
 &lt;p&gt;The room will open at 5 pm for setup.&lt;/p&gt;
 &lt;p&gt;A general help session will begin at 5:30 pm.&lt;/p&gt;
@@ -723,7 +935,15 @@ welcome!&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;We discussed the &lt;a href="http://ampache.org/"&gt;ampache&lt;/a&gt; web based music
     front end.&lt;/li&gt;
-&lt;/ul&gt;</summary><category term="raspberry pi"></category><category term="nmon"></category><category term="android"></category><category term="xbmc"></category><category term="hdds"></category><category term="trixbox"></category><category term="voip"></category><category term="asterisk"></category><category term="ampache"></category></entry><entry><title>Minutes 2012-02-16</title><link href="http://sluglinux.org/minutes/2012-02-16.html" rel="alternate"></link><updated>2012-02-16T00:00:00-06:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2012-02-16:minutes/2012-02-16.html</id><summary type="html">&lt;h1&gt;Location&lt;/h1&gt;
+&lt;/ul&gt;</content><category term="raspberry pi"></category><category term="nmon"></category><category term="android"></category><category term="xbmc"></category><category term="hdds"></category><category term="trixbox"></category><category term="voip"></category><category term="asterisk"></category><category term="ampache"></category></entry><entry><title>Minutes 2012-02-16</title><link href="http://sluglinux.org/minutes/2012-02-16.html" rel="alternate"></link><published>2012-02-16T00:00:00-06:00</published><updated>2012-02-16T00:00:00-06:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2012-02-16:/minutes/2012-02-16.html</id><summary type="html">&lt;h1&gt;Location&lt;/h1&gt;
+&lt;p&gt;Siouxland Libraries Oak View Branch, Room 3 at 6:30 pm.&lt;/p&gt;
+&lt;p&gt;The room will open at 5 pm for setup.&lt;/p&gt;
+&lt;p&gt;A general help session will begin at 5:30 pm.&lt;/p&gt;
+&lt;h1&gt;Agenda&lt;/h1&gt;
+&lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
+
+&lt;p&gt;It's open mic night at the Siouxland Linux User Group!&lt;/p&gt;
+&lt;p&gt;Tell us what you've been working on, or …&lt;/p&gt;</summary><content type="html">&lt;h1&gt;Location&lt;/h1&gt;
 &lt;p&gt;Siouxland Libraries Oak View Branch, Room 3 at 6:30 pm.&lt;/p&gt;
 &lt;p&gt;The room will open at 5 pm for setup.&lt;/p&gt;
 &lt;p&gt;A general help session will begin at 5:30 pm.&lt;/p&gt;
@@ -747,7 +967,13 @@ right.&lt;/p&gt;
 &lt;p&gt;There is no cost to attend the meeting or to join. New members are
 welcome!&lt;/p&gt;
 &lt;h1&gt;Minutes&lt;/h1&gt;
-&lt;p&gt;To be posted.&lt;/p&gt;</summary></entry><entry><title>Minutes 2011-01-20</title><link href="http://sluglinux.org/minutes/2011-01-20.html" rel="alternate"></link><updated>2011-01-20T00:00:00-06:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2011-01-20:minutes/2011-01-20.html</id><summary type="html">&lt;h1&gt;Location&lt;/h1&gt;
+&lt;p&gt;To be posted.&lt;/p&gt;</content></entry><entry><title>Minutes 2011-01-20</title><link href="http://sluglinux.org/minutes/2011-01-20.html" rel="alternate"></link><published>2011-01-20T00:00:00-06:00</published><updated>2011-01-20T00:00:00-06:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2011-01-20:/minutes/2011-01-20.html</id><summary type="html">&lt;h1&gt;Location&lt;/h1&gt;
+&lt;p&gt;Siouxland Libraries Oak View Branch, Room 3 at 6:30 pm.&lt;/p&gt;
+&lt;p&gt;The room opened at 5 pm for setup.&lt;/p&gt;
+&lt;p&gt;A general help session began at 5:30 pm.&lt;/p&gt;
+&lt;h1&gt;Directions&lt;/h1&gt;
+&lt;p&gt;To get to the Oak View branch from the west, take Sixth Street east to
+North Bahnson Ave. Turn left …&lt;/p&gt;</summary><content type="html">&lt;h1&gt;Location&lt;/h1&gt;
 &lt;p&gt;Siouxland Libraries Oak View Branch, Room 3 at 6:30 pm.&lt;/p&gt;
 &lt;p&gt;The room opened at 5 pm for setup.&lt;/p&gt;
 &lt;p&gt;A general help session began at 5:30 pm.&lt;/p&gt;
@@ -832,7 +1058,16 @@ Prey from filing its reports.&lt;/p&gt;
 &lt;p&gt;Anyone interested in presenting these or giving any other free software
 demos should contact Glenn at dakota.son at gmail.com.&lt;/p&gt;
 &lt;p&gt;Ten people attended.&lt;/p&gt;
-&lt;p&gt;--Submitted by Glenn&lt;/p&gt;</summary><category term="freenas"></category><category term="bsd"></category><category term="prey"></category></entry><entry><title>Minutes 2010-10-21</title><link href="http://sluglinux.org/minutes/2010-10-21.html" rel="alternate"></link><updated>2010-10-21T00:00:00-05:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2010-10-21:minutes/2010-10-21.html</id><summary type="html">&lt;h1&gt;Location&lt;/h1&gt;
+&lt;p&gt;--Submitted by Glenn&lt;/p&gt;</content><category term="freenas"></category><category term="bsd"></category><category term="prey"></category></entry><entry><title>Minutes 2010-10-21</title><link href="http://sluglinux.org/minutes/2010-10-21.html" rel="alternate"></link><published>2010-10-21T00:00:00-05:00</published><updated>2010-10-21T00:00:00-05:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2010-10-21:/minutes/2010-10-21.html</id><summary type="html">&lt;h1&gt;Location&lt;/h1&gt;
+&lt;p&gt;Siouxland Libraries Oak View Branch in Sioux Falls, Room 3 at 6:30pm.&lt;/p&gt;
+&lt;h1&gt;Agenda&lt;/h1&gt;
+&lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
+
+&lt;p&gt;Adam will discuss the differences (and similarities) between BSD and
+Linux.
+&lt;!-- PELICAN_END_SUMMARY --&gt;&lt;/p&gt;
+&lt;p&gt;We are still looking for 5- to 10-minute demos for October's meeting.&lt;/p&gt;
+&lt;p&gt;If you've tried a new distribution or found an open source program …&lt;/p&gt;</summary><content type="html">&lt;h1&gt;Location&lt;/h1&gt;
 &lt;p&gt;Siouxland Libraries Oak View Branch in Sioux Falls, Room 3 at 6:30pm.&lt;/p&gt;
 &lt;h1&gt;Agenda&lt;/h1&gt;
 &lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
@@ -917,7 +1152,18 @@ makes your computer more useful, show it to the club. A laptop is
 available for these demos, so you don't need to bring your own machine.&lt;/p&gt;
 &lt;p&gt;To volunteer, contact Glenn (dakota.son at gmail.com).&lt;/p&gt;
 &lt;h2&gt;December topic&lt;/h2&gt;
-&lt;p&gt;Dinner at Tommy Jack's Pub - details TBA&lt;/p&gt;</summary><category term="bsd"></category><category term="freebsd"></category><category term="wiki"></category></entry><entry><title>Minutes 2010-09-16</title><link href="http://sluglinux.org/minutes/2010-09-16.html" rel="alternate"></link><updated>2010-09-16T00:00:00-05:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2010-09-16:minutes/2010-09-16.html</id><summary type="html">&lt;h1&gt;Location&lt;/h1&gt;
+&lt;p&gt;Dinner at Tommy Jack's Pub - details TBA&lt;/p&gt;</content><category term="bsd"></category><category term="freebsd"></category><category term="wiki"></category></entry><entry><title>Minutes 2010-09-16</title><link href="http://sluglinux.org/minutes/2010-09-16.html" rel="alternate"></link><published>2010-09-16T00:00:00-05:00</published><updated>2010-09-16T00:00:00-05:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2010-09-16:/minutes/2010-09-16.html</id><summary type="html">&lt;h1&gt;Location&lt;/h1&gt;
+&lt;p&gt;Oak View Branch of the Siouxland Libraries in Sioux Falls, Room 3 at
+6:30pm.&lt;/p&gt;
+&lt;h1&gt;Agenda&lt;/h1&gt;
+&lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
+
+&lt;p&gt;It's open mic night at the Siouxland Linux User Group!&lt;/p&gt;
+&lt;p&gt;Tell us what you've been working on, or what Linux software you can't
+live without, or maybe just what's on your mind.
+&lt;!-- PELICAN_END_SUMMARY --&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Rob …&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;h1&gt;Location&lt;/h1&gt;
 &lt;p&gt;Oak View Branch of the Siouxland Libraries in Sioux Falls, Room 3 at
 6:30pm.&lt;/p&gt;
 &lt;h1&gt;Agenda&lt;/h1&gt;
@@ -1002,7 +1248,17 @@ available for these demos, so you don't need to bring your own machine.&lt;/p&gt
 &lt;h2&gt;November topic&lt;/h2&gt;
 &lt;p&gt;Using the GIMP&lt;/p&gt;
 &lt;h2&gt;December topic&lt;/h2&gt;
-&lt;p&gt;Party!&lt;/p&gt;</summary><category term="virtualization"></category><category term="ssh"></category><category term="distros"></category></entry><entry><title>Minutes 2010-08-19</title><link href="http://sluglinux.org/minutes/2010-08-19.html" rel="alternate"></link><updated>2010-08-19T00:00:00-05:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2010-08-19:minutes/2010-08-19.html</id><summary type="html">&lt;h1&gt;Location&lt;/h1&gt;
+&lt;p&gt;Party!&lt;/p&gt;</content><category term="virtualization"></category><category term="ssh"></category><category term="distros"></category></entry><entry><title>Minutes 2010-08-19</title><link href="http://sluglinux.org/minutes/2010-08-19.html" rel="alternate"></link><published>2010-08-19T00:00:00-05:00</published><updated>2010-08-19T00:00:00-05:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2010-08-19:/minutes/2010-08-19.html</id><summary type="html">&lt;h1&gt;Location&lt;/h1&gt;
+&lt;p&gt;Oak View Branch of the Siouxland Libraries in Sioux Falls, Room 3 at
+6:30pm.&lt;/p&gt;
+&lt;h1&gt;Agenda&lt;/h1&gt;
+&lt;h2&gt;Secure Network Tunnels: Configuring OpenVPN - 6:30pm&lt;/h2&gt;
+&lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
+
+&lt;p&gt;Dustin S. will demonstrate the correct way to configure secure network
+tunnels using OpenVPN.&lt;/p&gt;
+&lt;p&gt;OpenVPN allows you to build a virtual private network using Windows,
+Linux …&lt;/p&gt;</summary><content type="html">&lt;h1&gt;Location&lt;/h1&gt;
 &lt;p&gt;Oak View Branch of the Siouxland Libraries in Sioux Falls, Room 3 at
 6:30pm.&lt;/p&gt;
 &lt;h1&gt;Agenda&lt;/h1&gt;
@@ -1044,7 +1300,16 @@ last night's SLUG meeting!&lt;/p&gt;
 which hopefully helped some of the folks struggling to make their VPN
 installations work.&lt;/p&gt;
 &lt;p&gt;Thanks again, Dustin!&lt;/p&gt;
-&lt;p&gt;--Glenn&lt;/p&gt;</summary><category term="openvpn"></category><category term="install"></category><category term="distros"></category></entry><entry><title>Minutes 2010-06-17</title><link href="http://sluglinux.org/minutes/2010-06-17.html" rel="alternate"></link><updated>2010-06-17T00:00:00-05:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2010-06-17:minutes/2010-06-17.html</id><summary type="html">&lt;h1&gt;Location&lt;/h1&gt;
+&lt;p&gt;--Glenn&lt;/p&gt;</content><category term="openvpn"></category><category term="install"></category><category term="distros"></category></entry><entry><title>Minutes 2010-06-17</title><link href="http://sluglinux.org/minutes/2010-06-17.html" rel="alternate"></link><published>2010-06-17T00:00:00-05:00</published><updated>2010-06-17T00:00:00-05:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2010-06-17:/minutes/2010-06-17.html</id><summary type="html">&lt;h1&gt;Location&lt;/h1&gt;
+&lt;p&gt;Oak View Branch of the Siouxland Libraries in Sioux Falls, Room 3 at
+6:30pm.&lt;/p&gt;
+&lt;h1&gt;Agenda&lt;/h1&gt;
+&lt;h2&gt;Remote Control: Secure Access in GNU/Linux&lt;/h2&gt;
+&lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
+
+&lt;p&gt;Dustin and Rob will demonstrate some secure remote access utilities for
+controlling Linux, Mac, and Windows boxes over the internet.&lt;/p&gt;
+&lt;p&gt;This is a demo night, so …&lt;/p&gt;</summary><content type="html">&lt;h1&gt;Location&lt;/h1&gt;
 &lt;p&gt;Oak View Branch of the Siouxland Libraries in Sioux Falls, Room 3 at
 6:30pm.&lt;/p&gt;
 &lt;h1&gt;Agenda&lt;/h1&gt;
@@ -1085,7 +1350,16 @@ an Rob for their presentations on Thursday night.&lt;/p&gt;
 &lt;p&gt;Both bravely ventured into unknown territory -- using remote control
 software over the library's wireless connection -- and both succeeded!&lt;/p&gt;
 &lt;p&gt;Good job, guys!&lt;/p&gt;
-&lt;p&gt;--Glenn&lt;/p&gt;</summary><category term="demo"></category><category term="security"></category><category term="presentation"></category></entry><entry><title>Minutes 2010-05-20</title><link href="http://sluglinux.org/minutes/2010-05-20.html" rel="alternate"></link><updated>2010-05-20T00:00:00-05:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2010-05-20:minutes/2010-05-20.html</id><summary type="html">&lt;h1&gt;Location&lt;/h1&gt;
+&lt;p&gt;--Glenn&lt;/p&gt;</content><category term="demo"></category><category term="security"></category><category term="presentation"></category></entry><entry><title>Minutes 2010-05-20</title><link href="http://sluglinux.org/minutes/2010-05-20.html" rel="alternate"></link><published>2010-05-20T00:00:00-05:00</published><updated>2010-05-20T00:00:00-05:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2010-05-20:/minutes/2010-05-20.html</id><summary type="html">&lt;h1&gt;Location&lt;/h1&gt;
+&lt;p&gt;Oak View Branch of the Siouxland Libraries in Sioux Falls, Room 3 at
+6:30pm&lt;/p&gt;
+&lt;h1&gt;Agenda&lt;/h1&gt;
+&lt;h2&gt;Speak Freely: Open Source Voice over IP&lt;/h2&gt;
+&lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
+
+&lt;p&gt;Steve and Rob will recount their adventures in open source VoIP
+applications during May's Siouxland Linux Users Group meeting. They
+learned some important lessons about hardware …&lt;/p&gt;</summary><content type="html">&lt;h1&gt;Location&lt;/h1&gt;
 &lt;p&gt;Oak View Branch of the Siouxland Libraries in Sioux Falls, Room 3 at
 6:30pm&lt;/p&gt;
 &lt;h1&gt;Agenda&lt;/h1&gt;
@@ -1166,7 +1440,16 @@ home.&lt;/p&gt;
 &lt;li&gt;Synergy and XDMCP&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;Attendance&lt;/h2&gt;
-&lt;p&gt;Fourteen people attended the May meeting.&lt;/p&gt;</summary><category term="voip"></category><category term="distros"></category><category term="mint"></category><category term="synergy"></category><category term="pfsense"></category><category term="m0n0wall"></category><category term="virtualization"></category></entry><entry><title>Minutes 2010-04-15</title><link href="http://sluglinux.org/minutes/2010-04-15.html" rel="alternate"></link><updated>2010-04-15T00:00:00-05:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2010-04-15:minutes/2010-04-15.html</id><summary type="html">&lt;h1&gt;Location&lt;/h1&gt;
+&lt;p&gt;Fourteen people attended the May meeting.&lt;/p&gt;</content><category term="voip"></category><category term="distros"></category><category term="mint"></category><category term="synergy"></category><category term="pfsense"></category><category term="m0n0wall"></category><category term="virtualization"></category></entry><entry><title>Minutes 2010-04-15</title><link href="http://sluglinux.org/minutes/2010-04-15.html" rel="alternate"></link><published>2010-04-15T00:00:00-05:00</published><updated>2010-04-15T00:00:00-05:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2010-04-15:/minutes/2010-04-15.html</id><summary type="html">&lt;h1&gt;Location&lt;/h1&gt;
+&lt;p&gt;Oak View Branch of the Siouxland Libraries in Sioux Falls, Room 3 at
+6:30pm&lt;/p&gt;
+&lt;h1&gt;Agenda&lt;/h1&gt;
+&lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
+
+&lt;p&gt;High Availability Tools: Keep on Servin'&lt;/p&gt;
+&lt;p&gt;Alex Dean will cover High Availability tools for Linux at the April
+Siouxland Linux Users Group meeting. These tools are critical to the
+delivery of enterprise-level services …&lt;/p&gt;</summary><content type="html">&lt;h1&gt;Location&lt;/h1&gt;
 &lt;p&gt;Oak View Branch of the Siouxland Libraries in Sioux Falls, Room 3 at
 6:30pm&lt;/p&gt;
 &lt;h1&gt;Agenda&lt;/h1&gt;
@@ -1232,7 +1515,19 @@ for the first time.&lt;/p&gt;
 &lt;h2&gt;July Meeting&lt;/h2&gt;
 &lt;p&gt;No formal meeting: Barbecue or Pizza Party&lt;/p&gt;
 &lt;h2&gt;Future topics&lt;/h2&gt;
-&lt;p&gt;General help, video streaming, FreeNAS, Utilities for Non-geeks&lt;/p&gt;</summary><category term="ha"></category><category term="kde"></category><category term="distros"></category><category term="heartbeat"></category><category term="drbd"></category><category term="install fest"></category><category term="geotagging"></category></entry><entry><title>Minutes 2010-03-18</title><link href="http://sluglinux.org/minutes/2010-03-18.html" rel="alternate"></link><updated>2010-03-18T00:00:00-05:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2010-03-18:minutes/2010-03-18.html</id><summary type="html">&lt;h1&gt;Location&lt;/h1&gt;
+&lt;p&gt;General help, video streaming, FreeNAS, Utilities for Non-geeks&lt;/p&gt;</content><category term="ha"></category><category term="kde"></category><category term="distros"></category><category term="heartbeat"></category><category term="drbd"></category><category term="install fest"></category><category term="geotagging"></category></entry><entry><title>Minutes 2010-03-18</title><link href="http://sluglinux.org/minutes/2010-03-18.html" rel="alternate"></link><published>2010-03-18T00:00:00-05:00</published><updated>2010-03-18T00:00:00-05:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2010-03-18:/minutes/2010-03-18.html</id><summary type="html">&lt;h1&gt;Location&lt;/h1&gt;
+&lt;p&gt;Siouxland Libraries Oak View Branch near Third St. and North Bahnson,
+Room 3 at 6:30pm.&lt;/p&gt;
+&lt;h1&gt;Agenda&lt;/h1&gt;
+&lt;p&gt;The room will open at 6pm for setup.&lt;/p&gt;
+&lt;p&gt;A few business items:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Plans for upcoming meetings.&lt;ul&gt;
+&lt;li&gt;High-availability server tools - tentative April topic&lt;/li&gt;
+&lt;li&gt;VoIP - standby April or May topic&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Other business items the …&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;h1&gt;Location&lt;/h1&gt;
 &lt;p&gt;Siouxland Libraries Oak View Branch near Third St. and North Bahnson,
 Room 3 at 6:30pm.&lt;/p&gt;
 &lt;h1&gt;Agenda&lt;/h1&gt;
@@ -1331,7 +1626,16 @@ for the first time.&lt;/p&gt;
 &lt;h2&gt;May topic&lt;/h2&gt;
 &lt;p&gt;VoIP&lt;/p&gt;
 &lt;h2&gt;Future topics&lt;/h2&gt;
-&lt;p&gt;Video streaming, general help session, FreeNAS, picnic or pizza party.&lt;/p&gt;</summary><category term="linux from scratch"></category><category term="distros"></category><category term="ha"></category><category term="voip"></category></entry><entry><title>Minutes 2010-02-18</title><link href="http://sluglinux.org/minutes/2010-02-18.html" rel="alternate"></link><updated>2010-02-18T00:00:00-06:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2010-02-18:minutes/2010-02-18.html</id><summary type="html">&lt;h1&gt;Location&lt;/h1&gt;
+&lt;p&gt;Video streaming, general help session, FreeNAS, picnic or pizza party.&lt;/p&gt;</content><category term="linux from scratch"></category><category term="distros"></category><category term="ha"></category><category term="voip"></category></entry><entry><title>Minutes 2010-02-18</title><link href="http://sluglinux.org/minutes/2010-02-18.html" rel="alternate"></link><published>2010-02-18T00:00:00-06:00</published><updated>2010-02-18T00:00:00-06:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2010-02-18:/minutes/2010-02-18.html</id><summary type="html">&lt;h1&gt;Location&lt;/h1&gt;
+&lt;p&gt;Siouxland Libraries Ronning Branch near 49th and Southeastern at 6:30pm&lt;/p&gt;
+&lt;h1&gt;Agenda&lt;/h1&gt;
+&lt;p&gt;The room will open at 6pm for setup.&lt;/p&gt;
+&lt;p&gt;A few business items:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Program ideas for upcoming meetings&lt;/li&gt;
+&lt;li&gt;Scouting a permanent meeting location&lt;/li&gt;
+&lt;li&gt;Places that may be willing to display meeting posters?&lt;/li&gt;
+&lt;li&gt;Other business items the group wants …&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;h1&gt;Location&lt;/h1&gt;
 &lt;p&gt;Siouxland Libraries Ronning Branch near 49th and Southeastern at 6:30pm&lt;/p&gt;
 &lt;h1&gt;Agenda&lt;/h1&gt;
 &lt;p&gt;The room will open at 6pm for setup.&lt;/p&gt;
@@ -1402,7 +1706,19 @@ demonstration in March should contact Glenn.&lt;/p&gt;
 new distribution or in trying Linux for the first time.&lt;/p&gt;
 &lt;h2&gt;Future topics&lt;/h2&gt;
 &lt;p&gt;VoIP, high-availability tools, video streaming, vendor presentations,
-general help session.&lt;/p&gt;</summary><category term="security"></category><category term="firewall"></category><category term="advocacy"></category></entry><entry><title>Minutes 2010-01-21</title><link href="http://sluglinux.org/minutes/2010-01-21.html" rel="alternate"></link><updated>2010-01-21T00:00:00-06:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2010-01-21:minutes/2010-01-21.html</id><summary type="html">&lt;h1&gt;Location&lt;/h1&gt;
+general help session.&lt;/p&gt;</content><category term="security"></category><category term="firewall"></category><category term="advocacy"></category></entry><entry><title>Minutes 2010-01-21</title><link href="http://sluglinux.org/minutes/2010-01-21.html" rel="alternate"></link><published>2010-01-21T00:00:00-06:00</published><updated>2010-01-21T00:00:00-06:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2010-01-21:/minutes/2010-01-21.html</id><summary type="html">&lt;h1&gt;Location&lt;/h1&gt;
+&lt;p&gt;The Pizza Ranch on 41st St. at 6:30pm&lt;/p&gt;
+&lt;h1&gt;Agenda&lt;/h1&gt;
+&lt;h1&gt;Minutes&lt;/h1&gt;
+&lt;p&gt;Prepared by Glenn&lt;/p&gt;
+&lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
+
+&lt;p&gt;Ten people gathered for an informal meeting to determine the current
+level of interest in open source software and the Siouxland Linux Users
+Group.
+&lt;!-- PELICAN_END_SUMMARY --&gt;&lt;/p&gt;
+&lt;p&gt;Attendees shared information about the Linux distributions they run and
+discussed …&lt;/p&gt;</summary><content type="html">&lt;h1&gt;Location&lt;/h1&gt;
 &lt;p&gt;The Pizza Ranch on 41st St. at 6:30pm&lt;/p&gt;
 &lt;h1&gt;Agenda&lt;/h1&gt;
 &lt;h1&gt;Minutes&lt;/h1&gt;
@@ -1430,7 +1746,32 @@ Branch in southeast Sioux Falls. The meeting room will open at 6 p.m.&lt;/p&gt;
 in trying a new distribution or in trying Linux for the first time.&lt;/p&gt;
 &lt;p&gt;March's topic -- Linux from Scratch demonstration.&lt;/p&gt;
 &lt;p&gt;Future topics -- Video streaming, vendor presentations, general help
-session, newbie night.&lt;/p&gt;</summary><category term="linux from scratch"></category><category term="distros"></category></entry><entry><title>Minutes 2009-02-26</title><link href="http://sluglinux.org/minutes/2009-02-26.html" rel="alternate"></link><updated>2009-02-26T00:00:00-06:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2009-02-26:minutes/2009-02-26.html</id><summary type="html">&lt;h1&gt;Location&lt;/h1&gt;
+session, newbie night.&lt;/p&gt;</content><category term="linux from scratch"></category><category term="distros"></category></entry><entry><title>Minutes 2009-02-26</title><link href="http://sluglinux.org/minutes/2009-02-26.html" rel="alternate"></link><published>2009-02-26T00:00:00-06:00</published><updated>2009-02-26T00:00:00-06:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2009-02-26:/minutes/2009-02-26.html</id><summary type="html">&lt;h1&gt;Location&lt;/h1&gt;
+&lt;p&gt;Globe University at 6:30pm&lt;/p&gt;
+&lt;h1&gt;Agenda&lt;/h1&gt;
+&lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
+
+&lt;p&gt;Speakers: Steve
+&lt;!-- PELICAN_END_SUMMARY --&gt;&lt;/p&gt;
+&lt;h1&gt;Minutes&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Discussed the future of SLUG at Globe University&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Make Fliers&lt;/li&gt;
+&lt;li&gt;Make a map and directions page for the website&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Steve demonstrated installing &lt;a href="http://www.pfsense.org/"&gt;pfSense&lt;/a&gt;.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Discussed its relationship with &lt;a href="http://m0n0.ch/wall/"&gt;m0n0wall&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Benefits of its package management system&lt;/li&gt;
+&lt;li&gt;Power of BSDs packet filtering&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Discussed …&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;h1&gt;Location&lt;/h1&gt;
 &lt;p&gt;Globe University at 6:30pm&lt;/p&gt;
 &lt;h1&gt;Agenda&lt;/h1&gt;
 &lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
@@ -1469,7 +1810,19 @@ session, newbie night.&lt;/p&gt;</summary><category term="linux from scratch"></
 &lt;li&gt;Making changes to reflect current meeting information&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/li&gt;
-&lt;/ul&gt;</summary><category term="advocacy"></category><category term="bsd"></category><category term="packet filtering"></category><category term="package management"></category><category term="programming"></category><category term="website"></category></entry><entry><title>Minutes 2008-11-26</title><link href="http://sluglinux.org/minutes/2008-11-26.html" rel="alternate"></link><updated>2008-11-26T00:00:00-06:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2008-11-26:minutes/2008-11-26.html</id><summary type="html">&lt;h1&gt;Location&lt;/h1&gt;
+&lt;/ul&gt;</content><category term="advocacy"></category><category term="bsd"></category><category term="packet filtering"></category><category term="package management"></category><category term="programming"></category><category term="website"></category></entry><entry><title>Minutes 2008-11-26</title><link href="http://sluglinux.org/minutes/2008-11-26.html" rel="alternate"></link><published>2008-11-26T00:00:00-06:00</published><updated>2008-11-26T00:00:00-06:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2008-11-26:/minutes/2008-11-26.html</id><summary type="html">&lt;h1&gt;Location&lt;/h1&gt;
+&lt;p&gt;Pizza Ranch on 41st at 7:00pm&lt;/p&gt;
+&lt;h1&gt;Agenda&lt;/h1&gt;
+&lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
+
+&lt;p&gt;Informal meeting
+&lt;!-- PELICAN_END_SUMMARY --&gt;&lt;/p&gt;
+&lt;h1&gt;Minutes&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;The usual crowd showed up. Another very informal meeting.&lt;/li&gt;
+&lt;li&gt;Steve handed out some comic books that were sent to us by Jeremiah
+    Gray. They were GNU/Linux and Ubuntu related and geared towards
+    teaching new people about GNU …&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;h1&gt;Location&lt;/h1&gt;
 &lt;p&gt;Pizza Ranch on 41st at 7:00pm&lt;/p&gt;
 &lt;h1&gt;Agenda&lt;/h1&gt;
 &lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
@@ -1494,13 +1847,36 @@ session, newbie night.&lt;/p&gt;</summary><category term="linux from scratch"></
     potential meeting locations.&lt;/li&gt;
 &lt;li&gt;And of course various chit chat about VPNs, Asterisk, WiFi, and
     other fun things.&lt;/li&gt;
-&lt;/ul&gt;</summary><category term="mailing list"></category><category term="vpn"></category><category term="asterisk"></category><category term="wifi"></category><category term="comics"></category></entry><entry><title>Minutes 2007-10-18</title><link href="http://sluglinux.org/minutes/2007-10-18.html" rel="alternate"></link><updated>2007-10-18T00:00:00-05:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2007-10-18:minutes/2007-10-18.html</id><summary type="html">&lt;h1&gt;Location&lt;/h1&gt;
+&lt;/ul&gt;</content><category term="mailing list"></category><category term="vpn"></category><category term="asterisk"></category><category term="wifi"></category><category term="comics"></category></entry><entry><title>Minutes 2007-10-18</title><link href="http://sluglinux.org/minutes/2007-10-18.html" rel="alternate"></link><published>2007-10-18T00:00:00-05:00</published><updated>2007-10-18T00:00:00-05:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2007-10-18:/minutes/2007-10-18.html</id><summary type="html">&lt;h1&gt;Location&lt;/h1&gt;
 &lt;p&gt;Colorado Technical University, room 172 at 5:30pm&lt;/p&gt;
 &lt;h1&gt;Agenda&lt;/h1&gt;
 &lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
 
 &lt;p&gt;Hey, you're the goto exerpt. Thanks for hanging out here.
-&lt;!-- PELICAN_END_SUMMARY --&gt;&lt;/p&gt;</summary></entry><entry><title>Minutes 2007-09-20</title><link href="http://sluglinux.org/minutes/2007-09-20.html" rel="alternate"></link><updated>2007-09-20T00:00:00-05:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2007-09-20:minutes/2007-09-20.html</id><summary type="html">&lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
+&lt;!-- PELICAN_END_SUMMARY --&gt;&lt;/p&gt;</summary><content type="html">&lt;h1&gt;Location&lt;/h1&gt;
+&lt;p&gt;Colorado Technical University, room 172 at 5:30pm&lt;/p&gt;
+&lt;h1&gt;Agenda&lt;/h1&gt;
+&lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
+
+&lt;p&gt;Hey, you're the goto exerpt. Thanks for hanging out here.
+&lt;!-- PELICAN_END_SUMMARY --&gt;&lt;/p&gt;</content></entry><entry><title>Minutes 2007-09-20</title><link href="http://sluglinux.org/minutes/2007-09-20.html" rel="alternate"></link><published>2007-09-20T00:00:00-05:00</published><updated>2007-09-20T00:00:00-05:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2007-09-20:/minutes/2007-09-20.html</id><summary type="html">&lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
+
+&lt;p&gt;Deep thinking - adds a new diemnison to it all.
+&lt;!-- PELICAN_END_SUMMARY --&gt;&lt;/p&gt;
+&lt;h1&gt;Agenda&lt;/h1&gt;
+&lt;h1&gt;Minutes&lt;/h1&gt;
+&lt;p&gt;Note taker: phliver&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;opello's soekris router&lt;ul&gt;
+&lt;li&gt;CF card for data storage.&lt;/li&gt;
+&lt;li&gt;Updated via web interface.&lt;/li&gt;
+&lt;li&gt;Runs m0n0wall&lt;/li&gt;
+&lt;li&gt;Soekris hardware&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;MythTV&lt;ul&gt;
+&lt;li&gt;No more zap2it labs, moving to Schedules Direct&lt;/li&gt;
+&lt;li&gt;Schedules Direct used to cost \$15 for 90 days, now \$15 …&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
 
 &lt;p&gt;Deep thinking - adds a new diemnison to it all.
 &lt;!-- PELICAN_END_SUMMARY --&gt;&lt;/p&gt;
@@ -1557,7 +1933,21 @@ session, newbie night.&lt;/p&gt;</summary><category term="linux from scratch"></
 &lt;li&gt;Dusty peeled the windows sticker off of his notebook :)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;/ul&gt;</summary><category term="storage"></category><category term="m0n0wall"></category><category term="mythtv"></category><category term="soekris"></category><category term="ubuntu"></category><category term="distros"></category><category term="advocacy"></category><category term="wifi"></category></entry><entry><title>Minutes 2006-01-19</title><link href="http://sluglinux.org/minutes/2006-01-19.html" rel="alternate"></link><updated>2006-01-19T00:00:00-06:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2006-01-19:minutes/2006-01-19.html</id><summary type="html">&lt;p&gt;This meeting was at the Main Branch of the Siouxland Libraries.&lt;/p&gt;
+&lt;/ul&gt;</content><category term="storage"></category><category term="m0n0wall"></category><category term="mythtv"></category><category term="soekris"></category><category term="ubuntu"></category><category term="distros"></category><category term="advocacy"></category><category term="wifi"></category></entry><entry><title>Minutes 2006-01-19</title><link href="http://sluglinux.org/minutes/2006-01-19.html" rel="alternate"></link><published>2006-01-19T00:00:00-06:00</published><updated>2006-01-19T00:00:00-06:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2006-01-19:/minutes/2006-01-19.html</id><summary type="html">&lt;p&gt;This meeting was at the Main Branch of the Siouxland Libraries.&lt;/p&gt;
+&lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
+
+&lt;p&gt;Yesterday's meeting was good. Brandon Morris performed a presentation on
+OpenWRT. Some of the things covered and demonstrated were:
+&lt;!-- PELICAN_END_SUMMARY --&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Installation&lt;/li&gt;
+&lt;li&gt;NVRam&lt;/li&gt;
+&lt;li&gt;ipkg&lt;/li&gt;
+&lt;li&gt;Bridging&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I have made the &lt;a href="Media:Meetings-2006-01-19-Openwrt.odp" title="wikilink"&gt;openwrt presentation
+file&lt;/a&gt; available.&lt;/p&gt;
+&lt;p&gt;Also, I highly recommend you &lt;a href="http://downloads.openwrt.org/whiterussian/"&gt;download your latest …&lt;/a&gt;&lt;/p&gt;</summary><content type="html">&lt;p&gt;This meeting was at the Main Branch of the Siouxland Libraries.&lt;/p&gt;
 &lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
 
 &lt;p&gt;Yesterday's meeting was good. Brandon Morris performed a presentation on
@@ -1573,7 +1963,29 @@ OpenWRT. Some of the things covered and demonstrated were:
 file&lt;/a&gt; available.&lt;/p&gt;
 &lt;p&gt;Also, I highly recommend you &lt;a href="http://downloads.openwrt.org/whiterussian/"&gt;download your latest firmware from
 openwrt.org&lt;/a&gt;. We used
-&lt;a href="Media:Meetings-2006-01-19-openwrt-wrt54g-squashfs.bin" title="wikilink"&gt;openwrt-wrt54g-squashfs.bin&lt;/a&gt;.&lt;/p&gt;</summary><category term="ipkg"></category><category term="networking"></category><category term="openwrt"></category><category term="wifi"></category></entry><entry><title>Minutes 2004-11-19</title><link href="http://sluglinux.org/minutes/2004-11-19.html" rel="alternate"></link><updated>2004-11-19T00:00:00-06:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2004-11-19:minutes/2004-11-19.html</id><summary type="html">&lt;h1&gt;Location&lt;/h1&gt;
+&lt;a href="Media:Meetings-2006-01-19-openwrt-wrt54g-squashfs.bin" title="wikilink"&gt;openwrt-wrt54g-squashfs.bin&lt;/a&gt;.&lt;/p&gt;</content><category term="ipkg"></category><category term="networking"></category><category term="openwrt"></category><category term="wifi"></category></entry><entry><title>Minutes 2004-11-19</title><link href="http://sluglinux.org/minutes/2004-11-19.html" rel="alternate"></link><published>2004-11-19T00:00:00-06:00</published><updated>2004-11-19T00:00:00-06:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2004-11-19:/minutes/2004-11-19.html</id><summary type="html">&lt;h1&gt;Location&lt;/h1&gt;
+&lt;p&gt;Colorado Technical University&lt;/p&gt;
+&lt;h1&gt;Agenda&lt;/h1&gt;
+&lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
+
+&lt;p&gt;Brandon (solarce) presented Firefox and Firefox extensions
+&lt;!-- PELICAN_END_SUMMARY --&gt;&lt;/p&gt;
+&lt;h1&gt;Minutes&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Firefox 1.0 Released November 8&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.extensionsmirror.nl/"&gt;http://www.extensionsmirror.nl/&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;comprehensive list of Firefox extensions&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;AdBlock&lt;ul&gt;
+&lt;li&gt;Brandon demonstrates using wildcards to filter&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Download tweak&lt;/li&gt;
+&lt;li&gt;del.icio.us&lt;ul&gt;
+&lt;li&gt;del.icio.us extension&lt;/li&gt;
+&lt;li&gt;del.icio.us/tag/lug&lt;/li&gt;
+&lt;li&gt;Foxylicious …&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;h1&gt;Location&lt;/h1&gt;
 &lt;p&gt;Colorado Technical University&lt;/p&gt;
 &lt;h1&gt;Agenda&lt;/h1&gt;
 &lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
@@ -1639,14 +2051,26 @@ openwrt.org&lt;/a&gt;. We used
 &lt;p&gt;Command to turn everything on&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;xcompmgr -cCfF -r7 -o.65 -l-10 -t-8 -D7&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;Xorg.conf&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;Section "Extentions"&lt;/code&gt;&lt;br /&gt;
-&lt;code&gt;Option "Composite" "Enable"&lt;/code&gt;&lt;br /&gt;
-&lt;code&gt;Option "RENDER" "Enable"&lt;/code&gt;&lt;br /&gt;
+&lt;p&gt;&lt;code&gt;Section "Extentions"&lt;/code&gt;&lt;br&gt;
+&lt;code&gt;Option "Composite" "Enable"&lt;/code&gt;&lt;br&gt;
+&lt;code&gt;Option "RENDER" "Enable"&lt;/code&gt;&lt;br&gt;
 &lt;code&gt;EndSection&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;For NVIDIA cards, add this option in your "Device Section":&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;Section "Device"&lt;/code&gt;&lt;br /&gt;
-&lt;code&gt;Option "RenderAccel" "true"&lt;/code&gt;&lt;br /&gt;
-&lt;code&gt;EndSection&lt;/code&gt;&lt;/p&gt;</summary><category term="firefox"></category><category term="extentions"></category><category term="xorg"></category></entry><entry><title>Minutes 2004-06-18</title><link href="http://sluglinux.org/minutes/2004-06-18.html" rel="alternate"></link><updated>2004-06-18T00:00:00-05:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2004-06-18:minutes/2004-06-18.html</id><summary type="html">&lt;h2&gt;Location&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;Section "Device"&lt;/code&gt;&lt;br&gt;
+&lt;code&gt;Option "RenderAccel" "true"&lt;/code&gt;&lt;br&gt;
+&lt;code&gt;EndSection&lt;/code&gt;&lt;/p&gt;</content><category term="firefox"></category><category term="extentions"></category><category term="xorg"></category></entry><entry><title>Minutes 2004-06-18</title><link href="http://sluglinux.org/minutes/2004-06-18.html" rel="alternate"></link><published>2004-06-18T00:00:00-05:00</published><updated>2004-06-18T00:00:00-05:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2004-06-18:/minutes/2004-06-18.html</id><summary type="html">&lt;h2&gt;Location&lt;/h2&gt;
+&lt;p&gt;Colorado Technical University, room 139(?) at 5:30pm&lt;/p&gt;
+&lt;h2&gt;Agenda&lt;/h2&gt;
+&lt;p&gt;Speakers: None&lt;/p&gt;
+&lt;h2&gt;Minutes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Some People Attended&lt;/li&gt;
+&lt;li&gt;Robby was not here to give his presentation.&lt;/li&gt;
+&lt;li&gt;Steve, Ben, and I hauled in some computers...&lt;ul&gt;
+&lt;li&gt;We couldn't get BSD/Mosix working in time, but hope to for next month.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;[Insert Name] brought in …&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;h2&gt;Location&lt;/h2&gt;
 &lt;p&gt;Colorado Technical University, room 139(?) at 5:30pm&lt;/p&gt;
 &lt;h2&gt;Agenda&lt;/h2&gt;
 &lt;p&gt;Speakers: None&lt;/p&gt;
@@ -1661,7 +2085,7 @@ openwrt.org&lt;/a&gt;. We used
 &lt;li&gt;[Insert Name] brought in a box of old Intersil WaveLan White and
     Bronze cards, which most attendees grabbed (and some were donated to
     CTU students).&lt;/li&gt;
-&lt;/ul&gt;</summary><category term="presentation"></category><category term="wifi"></category></entry><entry><title>Minutes 2004-05-21</title><link href="http://sluglinux.org/minutes/2004-05-21.html" rel="alternate"></link><updated>2004-05-21T00:00:00-05:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2004-05-21:minutes/2004-05-21.html</id><summary type="html">&lt;h2&gt;Location&lt;/h2&gt;
+&lt;/ul&gt;</content><category term="presentation"></category><category term="wifi"></category></entry><entry><title>Minutes 2004-05-21</title><link href="http://sluglinux.org/minutes/2004-05-21.html" rel="alternate"></link><published>2004-05-21T00:00:00-05:00</published><updated>2004-05-21T00:00:00-05:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2004-05-21:/minutes/2004-05-21.html</id><summary type="html">&lt;h2&gt;Location&lt;/h2&gt;
 &lt;p&gt;Location: Colorado Technical University, room 139(?) at 5:30pm&lt;/p&gt;
 &lt;h2&gt;Agenda&lt;/h2&gt;
 &lt;p&gt;Speakers: None&lt;/p&gt;
@@ -1674,7 +2098,46 @@ openwrt.org&lt;/a&gt;. We used
 &lt;li&gt;Smalltalk ensues...&lt;/li&gt;
 &lt;li&gt;SLUG Recommends: BTTV chipsets for TV Tuner Cards, and MythTV for recording and managing shows.
 &lt;!-- PELICAN_END_SUMMARY --&gt;&lt;/li&gt;
-&lt;/ul&gt;</summary><category term="presentation"></category><category term="mythtv"></category></entry><entry><title>Minutes 2004-03-19</title><link href="http://sluglinux.org/minutes/2004-03-19.html" rel="alternate"></link><updated>2004-03-19T00:00:00-06:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2004-03-19:minutes/2004-03-19.html</id><summary type="html">&lt;h2&gt;Location&lt;/h2&gt;
+&lt;/ul&gt;</summary><content type="html">&lt;h2&gt;Location&lt;/h2&gt;
+&lt;p&gt;Location: Colorado Technical University, room 139(?) at 5:30pm&lt;/p&gt;
+&lt;h2&gt;Agenda&lt;/h2&gt;
+&lt;p&gt;Speakers: None&lt;/p&gt;
+&lt;h2&gt;Minutes&lt;/h2&gt;
+&lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
+
+&lt;ul&gt;
+&lt;li&gt;11 People Attended&lt;/li&gt;
+&lt;li&gt;Robby was not here to give his presentation.&lt;/li&gt;
+&lt;li&gt;Smalltalk ensues...&lt;/li&gt;
+&lt;li&gt;SLUG Recommends: BTTV chipsets for TV Tuner Cards, and MythTV for recording and managing shows.
+&lt;!-- PELICAN_END_SUMMARY --&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><category term="presentation"></category><category term="mythtv"></category></entry><entry><title>Minutes 2004-03-19</title><link href="http://sluglinux.org/minutes/2004-03-19.html" rel="alternate"></link><published>2004-03-19T00:00:00-06:00</published><updated>2004-03-19T00:00:00-06:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2004-03-19:/minutes/2004-03-19.html</id><summary type="html">&lt;h2&gt;Location&lt;/h2&gt;
+&lt;p&gt;Colorado Technical University, room 135 at 5:30pm&lt;/p&gt;
+&lt;h2&gt;Agenda&lt;/h2&gt;
+&lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
+
+&lt;p&gt;Speaker: C.J. Steele
+&lt;!-- PELICAN_END_SUMMARY --&gt;&lt;/p&gt;
+&lt;h2&gt;Minutes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Security Beyond the Firewall&lt;/li&gt;
+&lt;li&gt;Backups&lt;/li&gt;
+&lt;li&gt;Service Limiting&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://bastille-linux.sourceforge.net/"&gt;Bastille Linux&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://grsecurity.net/"&gt;grsecurity&lt;/a&gt; /
+    &lt;a href="http://pax.grsecurity.net/docs/"&gt;PaX&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;IDS&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://ee.lbl.gov/"&gt;arpwatch&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.logwatch.org/"&gt;logwatch&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.snort.org/"&gt;snort&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;process monitoring&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://mmonit.com/monit/"&gt;monit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://netsaint.sourceforge.net/"&gt;netsaint&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;integrity checking&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://sourceforge.net/projects/tripwire/"&gt;tripwire&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;layer 7 packet filtering&lt;/li&gt;
+&lt;li&gt;simple firewall script overview&lt;/li&gt;
+&lt;li&gt;also for individual machines, not …&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;h2&gt;Location&lt;/h2&gt;
 &lt;p&gt;Colorado Technical University, room 135 at 5:30pm&lt;/p&gt;
 &lt;h2&gt;Agenda&lt;/h2&gt;
 &lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
@@ -1702,7 +2165,21 @@ openwrt.org&lt;/a&gt;. We used
 &lt;li&gt;simple firewall script overview&lt;/li&gt;
 &lt;li&gt;also for individual machines, not just a dedicated firewall&lt;/li&gt;
 &lt;li&gt;port knocking [&lt;a href="http://www.zeroflux.org/projects/knock"&gt;knockd&lt;/a&gt;]&lt;/li&gt;
-&lt;/ul&gt;</summary><category term="security"></category><category term="firewall"></category><category term="backups"></category><category term="distros"></category><category term="logwatch"></category><category term="snort"></category><category term="monit"></category><category term="netsaint"></category><category term="tripwire"></category><category term="packet filtering"></category><category term="port knocking"></category></entry><entry><title>Minutes 2004-02-27</title><link href="http://sluglinux.org/minutes/2004-02-27.html" rel="alternate"></link><updated>2004-02-27T00:00:00-06:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2004-02-27:minutes/2004-02-27.html</id><summary type="html">&lt;h2&gt;Location&lt;/h2&gt;
+&lt;/ul&gt;</content><category term="security"></category><category term="firewall"></category><category term="backups"></category><category term="distros"></category><category term="logwatch"></category><category term="snort"></category><category term="monit"></category><category term="netsaint"></category><category term="tripwire"></category><category term="packet filtering"></category><category term="port knocking"></category></entry><entry><title>Minutes 2004-02-27</title><link href="http://sluglinux.org/minutes/2004-02-27.html" rel="alternate"></link><published>2004-02-27T00:00:00-06:00</published><updated>2004-02-27T00:00:00-06:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2004-02-27:/minutes/2004-02-27.html</id><summary type="html">&lt;h2&gt;Location&lt;/h2&gt;
+&lt;p&gt;Colorado Technical University, room 134 at 5:30pm&lt;/p&gt;
+&lt;h2&gt;Agenda&lt;/h2&gt;
+&lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
+
+&lt;p&gt;Speaker: Robby, Packet Shaping
+&lt;!-- PELICAN_END_SUMMARY --&gt;&lt;/p&gt;
+&lt;h2&gt;Minutes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;25 people attended, many were on their first visit to SLUG!&lt;/li&gt;
+&lt;li&gt;30 Minutes of Anticipation ...&lt;ul&gt;
+&lt;li&gt;What's your linux experience? ranged from total neophyte to 10 years of experience&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Presentation: Packet Shaping &lt;a href="http://lartc.org/lartc.html"&gt;http://lartc.org/lartc …&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;h2&gt;Location&lt;/h2&gt;
 &lt;p&gt;Colorado Technical University, room 134 at 5:30pm&lt;/p&gt;
 &lt;h2&gt;Agenda&lt;/h2&gt;
 &lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
@@ -1728,7 +2205,22 @@ openwrt.org&lt;/a&gt;. We used
 &lt;li&gt;We had time left over and Dan
     &lt;a href="http://www.gentoo.org/doc/en/handbook/handbook-x86.xml?part=2&amp;amp;chap=1"&gt;emerged&lt;/a&gt;
     &lt;a href="http://www.gnucash.org/"&gt;GNUCash&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;</summary><category term="packet shaping"></category><category term="presentation"></category><category term="m0n0wall"></category><category term="gentoo"></category><category term="distros"></category></entry><entry><title>Minutes 2004-01-30</title><link href="http://sluglinux.org/minutes/2004-01-30.html" rel="alternate"></link><updated>2004-01-30T00:00:00-06:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2004-01-30:minutes/2004-01-30.html</id><summary type="html">&lt;h2&gt;Location&lt;/h2&gt;
+&lt;/ul&gt;</content><category term="packet shaping"></category><category term="presentation"></category><category term="m0n0wall"></category><category term="gentoo"></category><category term="distros"></category></entry><entry><title>Minutes 2004-01-30</title><link href="http://sluglinux.org/minutes/2004-01-30.html" rel="alternate"></link><published>2004-01-30T00:00:00-06:00</published><updated>2004-01-30T00:00:00-06:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2004-01-30:/minutes/2004-01-30.html</id><summary type="html">&lt;h2&gt;Location&lt;/h2&gt;
+&lt;p&gt;Date: January 30, 2004 at 5:30pm&lt;/p&gt;
+&lt;h2&gt;Agenda&lt;/h2&gt;
+&lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
+
+&lt;p&gt;Organizational Meeting
+&lt;!-- PELICAN_END_SUMMARY --&gt;&lt;/p&gt;
+&lt;h2&gt;Minutes&lt;/h2&gt;
+&lt;p&gt;Note taker: opello&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Date and time of the meetings.&lt;/li&gt;
+&lt;li&gt;Friday seems to work out.&lt;/li&gt;
+&lt;li&gt;Mailing list&lt;/li&gt;
+&lt;li&gt;Going to a discussions + announcements mailing list&lt;/li&gt;
+&lt;li&gt;Tips and tricks section archived from discussion mailing list showing 'our best tricks'&lt;/li&gt;
+&lt;li&gt;Meeting room …&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;h2&gt;Location&lt;/h2&gt;
 &lt;p&gt;Date: January 30, 2004 at 5:30pm&lt;/p&gt;
 &lt;h2&gt;Agenda&lt;/h2&gt;
 &lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
@@ -1777,7 +2269,23 @@ openwrt.org&lt;/a&gt;. We used
 &lt;li&gt;plausible denyability encryption&lt;/li&gt;
 &lt;li&gt;various bouts of awkward silence&lt;/li&gt;
 &lt;li&gt;voluntary dues&lt;/li&gt;
-&lt;/ul&gt;</summary><category term="Install fest"></category><category term="encryption"></category><category term="organizational"></category></entry><entry><title>Minutes 2003-10-24</title><link href="http://sluglinux.org/minutes/2003-10-24.html" rel="alternate"></link><updated>2003-10-24T00:00:00-05:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2003-10-24:minutes/2003-10-24.html</id><summary type="html">&lt;h2&gt;Location&lt;/h2&gt;
+&lt;/ul&gt;</content><category term="Install fest"></category><category term="encryption"></category><category term="organizational"></category></entry><entry><title>Minutes 2003-10-24</title><link href="http://sluglinux.org/minutes/2003-10-24.html" rel="alternate"></link><published>2003-10-24T00:00:00-05:00</published><updated>2003-10-24T00:00:00-05:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2003-10-24:/minutes/2003-10-24.html</id><summary type="html">&lt;h2&gt;Location&lt;/h2&gt;
+&lt;p&gt;New Horizons at 5:30 pm&lt;/p&gt;
+&lt;h2&gt;Agenda&lt;/h2&gt;
+&lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
+
+&lt;p&gt;Topic: Mandrake 9.2 demonstration Speakers: pez4brian
+&lt;!-- PELICAN_END_SUMMARY --&gt;&lt;/p&gt;
+&lt;h2&gt;Minutes&lt;/h2&gt;
+&lt;p&gt;Discussion: Started on the last install step of Mandrake 9.2&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Advantages Graphical install&lt;/li&gt;
+&lt;li&gt;Network&lt;/li&gt;
+&lt;li&gt;Auto Detection and Expert Mode&lt;/li&gt;
+&lt;li&gt;Control Center&lt;/li&gt;
+&lt;li&gt;Hard Drake to show hardware&lt;/li&gt;
+&lt;li&gt;Samba and Apache Config tools&lt;/li&gt;
+&lt;li&gt;Boot graphics …&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;h2&gt;Location&lt;/h2&gt;
 &lt;p&gt;New Horizons at 5:30 pm&lt;/p&gt;
 &lt;h2&gt;Agenda&lt;/h2&gt;
 &lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
@@ -1813,7 +2321,12 @@ openwrt.org&lt;/a&gt;. We used
 &lt;p&gt;Games&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Quake III&lt;/li&gt;
-&lt;/ul&gt;</summary><category term="networking"></category><category term="samba"></category><category term="graphics"></category><category term="package management"></category><category term="lan party"></category><category term="mandrake"></category></entry><entry><title>Minutes 2003-09-26</title><link href="http://sluglinux.org/minutes/2003-09-26.html" rel="alternate"></link><updated>2003-09-26T00:00:00-05:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2003-09-26:minutes/2003-09-26.html</id><summary type="html">&lt;h2&gt;Minutes&lt;/h2&gt;
+&lt;/ul&gt;</content><category term="networking"></category><category term="samba"></category><category term="graphics"></category><category term="package management"></category><category term="lan party"></category><category term="mandrake"></category></entry><entry><title>Minutes 2003-09-26</title><link href="http://sluglinux.org/minutes/2003-09-26.html" rel="alternate"></link><published>2003-09-26T00:00:00-05:00</published><updated>2003-09-26T00:00:00-05:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2003-09-26:/minutes/2003-09-26.html</id><summary type="html">&lt;h2&gt;Minutes&lt;/h2&gt;
+&lt;p&gt;This was our first SLUG/ LAN meeting and was a learning experience. We
+had a new show, however with confusion and time I was unable to get any
+information about him.&lt;/p&gt;
+&lt;p&gt;Tried to work with an &lt;a href="http://www.ipcop.org/"&gt;IPCOP&lt;/a&gt; box and did not get
+too far with that as the person …&lt;/p&gt;</summary><content type="html">&lt;h2&gt;Minutes&lt;/h2&gt;
 &lt;p&gt;This was our first SLUG/ LAN meeting and was a learning experience. We
 had a new show, however with confusion and time I was unable to get any
 information about him.&lt;/p&gt;
@@ -1832,7 +2345,24 @@ followed by a LAN party. As trying to do both did not work out as we
 wanted. So gear up and suggest some ideas for a presentation for the
 next meeting.&lt;/p&gt;
 &lt;p&gt;Side note the next meeting will be held on Fri October
-24th 2003 due to the last Friday being Halloween!&lt;/p&gt;</summary><category term="lan party"></category><category term="ipcop"></category><category term="distros"></category><category term="organizational"></category></entry><entry><title>Minutes 2003-07-05</title><link href="http://sluglinux.org/minutes/2003-07-05.html" rel="alternate"></link><updated>2003-07-05T00:00:00-05:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2003-07-05:minutes/2003-07-05.html</id><summary type="html">&lt;h2&gt;Minutes&lt;/h2&gt;
+24th 2003 due to the last Friday being Halloween!&lt;/p&gt;</content><category term="lan party"></category><category term="ipcop"></category><category term="distros"></category><category term="organizational"></category></entry><entry><title>Minutes 2003-07-05</title><link href="http://sluglinux.org/minutes/2003-07-05.html" rel="alternate"></link><published>2003-07-05T00:00:00-05:00</published><updated>2003-07-05T00:00:00-05:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2003-07-05:/minutes/2003-07-05.html</id><summary type="html">&lt;h2&gt;Minutes&lt;/h2&gt;
+&lt;p&gt;So due to lack of time sorry it took so long---&lt;/p&gt;
+&lt;p&gt;Attendees:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;phliver&lt;/li&gt;
+&lt;li&gt;opello&lt;/li&gt;
+&lt;li&gt;Mikey&lt;/li&gt;
+&lt;li&gt;Vector&lt;/li&gt;
+&lt;li&gt;Pez4brian&lt;/li&gt;
+&lt;li&gt;Cassie&lt;/li&gt;
+&lt;li&gt;But3rfly&lt;/li&gt;
+&lt;li&gt;Terry&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
+
+&lt;p&gt;Brian brought in his linux box with mandrake on it. However, did not get
+much discussion on it. Please message me with the specs so we can go
+over …&lt;/p&gt;</summary><content type="html">&lt;h2&gt;Minutes&lt;/h2&gt;
 &lt;p&gt;So due to lack of time sorry it took so long---&lt;/p&gt;
 &lt;p&gt;Attendees:&lt;/p&gt;
 &lt;ul&gt;
@@ -1854,7 +2384,13 @@ over it an the next meeting.&lt;/p&gt;
 sound issues&lt;/p&gt;
 &lt;p&gt;Some talk about dependency hell... a vote for possible new meeting
 &lt;!-- PELICAN_END_SUMMARY --&gt;&lt;/p&gt;
-&lt;p&gt;Last but not least! Phliver bring da switch next time!&lt;/p&gt;</summary><category term="distros"></category><category term="audio"></category></entry><entry><title>Minutes 2003-06-30</title><link href="http://sluglinux.org/minutes/2003-06-30.html" rel="alternate"></link><updated>2003-06-30T00:00:00-05:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2003-06-30:minutes/2003-06-30.html</id><summary type="html">&lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
+&lt;p&gt;Last but not least! Phliver bring da switch next time!&lt;/p&gt;</content><category term="distros"></category><category term="audio"></category></entry><entry><title>Minutes 2003-06-30</title><link href="http://sluglinux.org/minutes/2003-06-30.html" rel="alternate"></link><published>2003-06-30T00:00:00-05:00</published><updated>2003-06-30T00:00:00-05:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2003-06-30:/minutes/2003-06-30.html</id><summary type="html">&lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
+
+&lt;p&gt;We had a good meeting! Monday may be a possibility for future meetings
+as it seems to work out for most of us.&lt;/p&gt;
+&lt;p&gt;We set up &lt;a href="http://synergy2.sourceforge.net/"&gt;synergy&lt;/a&gt; on two linux
+machines and found that it was WAY too easy, it didn't take long at all.&lt;/p&gt;
+&lt;p&gt;Discussed the current status of …&lt;/p&gt;</summary><content type="html">&lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
 
 &lt;p&gt;We had a good meeting! Monday may be a possibility for future meetings
 as it seems to work out for most of us.&lt;/p&gt;
@@ -1862,4 +2398,4 @@ as it seems to work out for most of us.&lt;/p&gt;
 machines and found that it was WAY too easy, it didn't take long at all.&lt;/p&gt;
 &lt;p&gt;Discussed the current status of the website and the sluglinux.org
 domain. Talked about a few distros, gentoo and mandrake in particular.
-&lt;!-- PELICAN_END_SUMMARY --&gt;&lt;/p&gt;</summary><category term="synergy"></category><category term="website"></category><category term="distros"></category></entry></feed>
+&lt;!-- PELICAN_END_SUMMARY --&gt;&lt;/p&gt;</content><category term="synergy"></category><category term="website"></category><category term="distros"></category></entry></feed>
