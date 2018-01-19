@@ -1,5 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Siouxland Linux Users Group</title><link href="http://sluglinux.org/" rel="alternate"></link><link href="http://sluglinux.org/feeds/minutes.atom.xml" rel="self"></link><id>http://sluglinux.org/</id><updated>2017-09-20T00:00:00-05:00</updated><entry><title>Minutes 2017-09-20</title><link href="http://sluglinux.org/minutes/2017-09-20.html" rel="alternate"></link><updated>2017-09-20T00:00:00-05:00</updated><author><name>mrtuttle</name></author><id>tag:sluglinux.org,2017-09-20:minutes/2017-09-20.html</id><summary type="html">&lt;h1&gt;Location&lt;/h1&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Siouxland Linux Users Group</title><link href="http://sluglinux.org/" rel="alternate"></link><link href="http://sluglinux.org/feeds/minutes.atom.xml" rel="self"></link><id>http://sluglinux.org/</id><updated>2018-01-17T00:00:00-06:00</updated><entry><title>Minutes 2018-01-17</title><link href="http://sluglinux.org/minutes/2018-01-17.html" rel="alternate"></link><updated>2018-01-17T00:00:00-06:00</updated><author><name>opello</name></author><id>tag:sluglinux.org,2018-01-17:minutes/2018-01-17.html</id><summary type="html">&lt;h1&gt;Location&lt;/h1&gt;
+&lt;p&gt;Siouxland Libraries Main Branch&lt;br /&gt;
+Room: Conference Room in the north east part of the library.&lt;br /&gt;
+Date: Wednesday, September 20, 2017&lt;br /&gt;
+Time: 6:00 PM to 9:00 PM&lt;/p&gt;
+&lt;h1&gt;Minutes&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;three-phase power&lt;ul&gt;
+&lt;li&gt;mrtuttle mentioned a GIF on the &lt;a href="https://en.wikipedia.org/wiki/Three-phase_electric_power"&gt;Wikipedia
+  page&lt;/a&gt; that did
+  a good job explaining the relationship of the three phases&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;vector brought some gadgets for home automation but the other interested
+  member from past meetings was not in attendance&lt;/li&gt;
+&lt;li&gt;vector also offered up an Antec power supply for sale whose notable feature
+  was a single power rail&lt;/li&gt;
+&lt;li&gt;tools for system administration including:&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.ansible.com/"&gt;ansible&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://saltstack.com/"&gt;saltstack&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.chef.io/chef/"&gt;chef&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://chocolatey.org/"&gt;chocolatey&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;another member brought a bunch of laptops and a Gigabyte motherboard that
+  were all intended to use &lt;a href="https://coreboot.org/"&gt;coreboot&lt;/a&gt; instead of the
+  vendor supplied BIOS (see also:  &lt;a href="https://www.coreboot.org/Welcome_to_coreboot"&gt;the coreboot
+  wiki&lt;/a&gt;)&lt;ul&gt;
+&lt;li&gt;used &lt;a href="https://www.digikey.com/products/en/test-and-measurement/test-clips-ic/624"&gt;IC test
+  clips&lt;/a&gt;
+  to repeatedly flash various ThinkPads with coreboot and the OEM provided
+  BIOS&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://wayland.freedesktop.org/"&gt;Wayland&lt;/a&gt; was discussed as were the
+  difficulties in getting it to work in &lt;a href="https://www.voidlinux.eu/"&gt;Void Linux&lt;/a&gt;
+  despite the fact that it worked easily in Ubuntu&lt;/li&gt;
+&lt;li&gt;VMware and the HTML5-based management interface was discussed and how it
+  compared to the deprecated vSphere desktop management tool&lt;/li&gt;
+&lt;li&gt;mrtuttle had to leave early but said he would reserve the room for the next
+  meeting on his way out&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="electricity"></category><category term="electronics"></category><category term="embedded"></category><category term="coreboot"></category><category term="ansible"></category><category term="saltstack"></category><category term="vmware"></category></entry><entry><title>Minutes 2017-09-20</title><link href="http://sluglinux.org/minutes/2017-09-20.html" rel="alternate"></link><updated>2017-09-20T00:00:00-05:00</updated><author><name>mrtuttle</name></author><id>tag:sluglinux.org,2017-09-20:minutes/2017-09-20.html</id><summary type="html">&lt;h1&gt;Location&lt;/h1&gt;
 &lt;p&gt;Siouxland Libraries Main Branch&lt;br /&gt;
 Room: Conference Room in the north east part of the library.&lt;br /&gt;
 Date: Wednesday, September 20, 2017&lt;br /&gt;
