@@ -174,19 +174,16 @@ few meetings here.&lt;/p&gt;
 &lt;li&gt;New, Fun Distributions&lt;/li&gt;
 &lt;li&gt;Subsystem for UNIX on Windows (bash on Windows 10)&lt;/li&gt;
 &lt;/ul&gt;</content><category term="news"></category><category term="slug"></category><category term="meeting"></category></entry><entry><title>Informal Get-Together 2014-12-22</title><link href="http://sluglinux.org/news/2014-12-18.html" rel="alternate"></link><published>2014-12-18T00:00:00-06:00</published><updated>2014-12-18T00:00:00-06:00</updated><author><name>MrTuttle</name></author><id>tag:sluglinux.org,2014-12-18:/news/2014-12-18.html</id><content type="html">&lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
-
-&lt;p&gt;We have an informal thing going on Monday, December 22. Come down to TommyJack's, drink, hang out, spend too much money on their awesome jukebox, meet new people (maybe), meet old people (probably), and talk about computers. 
-&lt;!-- PELICAN_END_SUMMARY --&gt;&lt;/p&gt;</content><category term="news"></category><category term="slug"></category><category term="meeting"></category></entry><entry><title>Designing with Blender</title><link href="http://sluglinux.org/news/2014-05-19.html" rel="alternate"></link><published>2014-05-19T00:00:00-05:00</published><updated>2014-05-19T00:00:00-05:00</updated><author><name>MrTuttle</name></author><id>tag:sluglinux.org,2014-05-19:/news/2014-05-19.html</id><summary type="html">&lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
+&lt;p&gt;We have an informal thing going on Monday, December 22. Come down to TommyJack's, drink, hang out, spend too much money on their awesome jukebox, meet new people (maybe), meet old people (probably), and talk about computers. &lt;/p&gt;
+&lt;!-- PELICAN_END_SUMMARY --&gt;</content><category term="news"></category><category term="slug"></category><category term="meeting"></category></entry><entry><title>Designing with Blender</title><link href="http://sluglinux.org/news/2014-05-19.html" rel="alternate"></link><published>2014-05-19T00:00:00-05:00</published><updated>2014-05-19T00:00:00-05:00</updated><author><name>MrTuttle</name></author><id>tag:sluglinux.org,2014-05-19:/news/2014-05-19.html</id><summary type="html">&lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
 
 &lt;!-- PELICAN_END_SUMMARY --&gt;
-
 &lt;p&gt;&lt;img alt="Photo" src="http://sluglinux.org/news/Bookshelf-final.png"&gt;&lt;/p&gt;
 &lt;p&gt;In this tutorial, some techniques for manipulating the size and location of objects will be demonstrated in the course of building a bookshelf.  It requires no previous knowledge of blender.&lt;/p&gt;
 &lt;p&gt;&lt;img alt="Photo" src="http://sluglinux.org/news/Bookshelf-factorySettings.png"&gt;&lt;/p&gt;
 &lt;p&gt;For the initial setup, blender is configured just like it would be if had been just installed.  If any settings …&lt;/p&gt;</summary><content type="html">&lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
 
 &lt;!-- PELICAN_END_SUMMARY --&gt;
-
 &lt;p&gt;&lt;img alt="Photo" src="http://sluglinux.org/news/Bookshelf-final.png"&gt;&lt;/p&gt;
 &lt;p&gt;In this tutorial, some techniques for manipulating the size and location of objects will be demonstrated in the course of building a bookshelf.  It requires no previous knowledge of blender.&lt;/p&gt;
 &lt;p&gt;&lt;img alt="Photo" src="http://sluglinux.org/news/Bookshelf-factorySettings.png"&gt;&lt;/p&gt;
@@ -234,35 +231,35 @@ few meetings here.&lt;/p&gt;
 &lt;p&gt;&lt;img alt="Photo" src="http://sluglinux.org/news/Bookshelf-completedBookshelf.png"&gt;&lt;/p&gt;
 &lt;p&gt;Once all the pieces are created and in place, select them all and join them together with control-j.  Place the origin some place useful like the back bottom edge.  This makes it easy to place in a more complex scene like an apartment.  It could even be textured now but that is another tutorial.&lt;/p&gt;
 &lt;p&gt;shortcuts used:&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="err"&gt;  spacebar = search function&lt;/span&gt;
-&lt;span class="err"&gt;  ctrl-z = undo&lt;/span&gt;
-&lt;span class="err"&gt;  n = opens the properties panel&lt;/span&gt;
-&lt;span class="err"&gt;  shift-b = zoom boarder&lt;/span&gt;
-&lt;span class="err"&gt;  numpad = manipulates view&lt;/span&gt;
-&lt;span class="err"&gt;  shift-a = add menu&lt;/span&gt;
-&lt;span class="err"&gt;  z = switch between solid and wireframe viewport shading modes&lt;/span&gt;
-&lt;span class="err"&gt;  tab = switch between object and edit mode&lt;/span&gt;
-&lt;span class="err"&gt;  ctrl-tab = mesh select mode&lt;/span&gt;
-&lt;span class="err"&gt;  shift-s = opens the snap menu&lt;/span&gt;
-&lt;span class="err"&gt;  ctrl-alt-shift-c = set origin menu&lt;/span&gt;
-&lt;span class="err"&gt;  .(numpad) = center view on selected&lt;/span&gt;
-&lt;span class="err"&gt;  shift-d = duplicates whatever is selected&lt;/span&gt;
-&lt;span class="err"&gt;  .(keyboard) = moves the pivot point to the 3D cursor&lt;/span&gt;
-&lt;span class="err"&gt;  g = grab&lt;/span&gt;
-&lt;span class="err"&gt;  s = scale&lt;/span&gt;
-&lt;span class="err"&gt;  r = rotate&lt;/span&gt;
-&lt;span class="err"&gt;  x(transformation) = locks transformation to the x axis&lt;/span&gt;
-&lt;span class="err"&gt;  y(transformation) = locks transformation to the y axis&lt;/span&gt;
-&lt;span class="err"&gt;  z(transformation) = locks transformation to the z axis&lt;/span&gt;
-&lt;span class="err"&gt;  ctrl-i = invert selection&lt;/span&gt;
-&lt;span class="err"&gt;  h = hide selection&lt;/span&gt;
-&lt;span class="err"&gt;  x = removes whatever is selected&lt;/span&gt;
-&lt;span class="err"&gt;  f = creates new vertices, edges, and faces&lt;/span&gt;
-&lt;span class="err"&gt;  alt-h = un-hide hidden&lt;/span&gt;
-&lt;span class="err"&gt;  a = select/deselect everything&lt;/span&gt;
-&lt;span class="err"&gt;  p = separate selected vertices, edges, and faces from current object&lt;/span&gt;
-&lt;span class="err"&gt;  f = extrude selected vertices, edges, or faces&lt;/span&gt;
-&lt;/pre&gt;&lt;/div&gt;</content><category term="news"></category><category term="blender"></category></entry><entry><title>New meeting and new location on June 20th 2013</title><link href="http://sluglinux.org/news/2013-05-31.html" rel="alternate"></link><published>2013-05-31T00:00:00-05:00</published><updated>2013-05-31T00:00:00-05:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2013-05-31:/news/2013-05-31.html</id><summary type="html">&lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;  &lt;span class="n"&gt;spacebar&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;search&lt;/span&gt; &lt;span class="k"&gt;function&lt;/span&gt;
+  &lt;span class="n"&gt;ctrl&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;z&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;undo&lt;/span&gt;
+  &lt;span class="n"&gt;n&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;opens&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;properties&lt;/span&gt; &lt;span class="n"&gt;panel&lt;/span&gt;
+  &lt;span class="n"&gt;shift&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;b&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;zoom&lt;/span&gt; &lt;span class="n"&gt;boarder&lt;/span&gt;
+  &lt;span class="n"&gt;numpad&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;manipulates&lt;/span&gt; &lt;span class="n"&gt;view&lt;/span&gt;
+  &lt;span class="n"&gt;shift&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;add&lt;/span&gt; &lt;span class="n"&gt;menu&lt;/span&gt;
+  &lt;span class="n"&gt;z&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;switch&lt;/span&gt; &lt;span class="n"&gt;between&lt;/span&gt; &lt;span class="n"&gt;solid&lt;/span&gt; &lt;span class="k"&gt;and&lt;/span&gt; &lt;span class="n"&gt;wireframe&lt;/span&gt; &lt;span class="n"&gt;viewport&lt;/span&gt; &lt;span class="n"&gt;shading&lt;/span&gt; &lt;span class="n"&gt;modes&lt;/span&gt;
+  &lt;span class="n"&gt;tab&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;switch&lt;/span&gt; &lt;span class="n"&gt;between&lt;/span&gt; &lt;span class="n"&gt;object&lt;/span&gt; &lt;span class="k"&gt;and&lt;/span&gt; &lt;span class="n"&gt;edit&lt;/span&gt; &lt;span class="n"&gt;mode&lt;/span&gt;
+  &lt;span class="n"&gt;ctrl&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;tab&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;mesh&lt;/span&gt; &lt;span class="n"&gt;select&lt;/span&gt; &lt;span class="n"&gt;mode&lt;/span&gt;
+  &lt;span class="n"&gt;shift&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;s&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;opens&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;snap&lt;/span&gt; &lt;span class="n"&gt;menu&lt;/span&gt;
+  &lt;span class="n"&gt;ctrl&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;alt&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;shift&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;c&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;set&lt;/span&gt; &lt;span class="n"&gt;origin&lt;/span&gt; &lt;span class="n"&gt;menu&lt;/span&gt;
+  &lt;span class="p"&gt;.(&lt;/span&gt;&lt;span class="n"&gt;numpad&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;center&lt;/span&gt; &lt;span class="n"&gt;view&lt;/span&gt; &lt;span class="n"&gt;on&lt;/span&gt; &lt;span class="n"&gt;selected&lt;/span&gt;
+  &lt;span class="n"&gt;shift&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;d&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;duplicates&lt;/span&gt; &lt;span class="n"&gt;whatever&lt;/span&gt; &lt;span class="n"&gt;is&lt;/span&gt; &lt;span class="n"&gt;selected&lt;/span&gt;
+  &lt;span class="p"&gt;.(&lt;/span&gt;&lt;span class="n"&gt;keyboard&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;moves&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;pivot&lt;/span&gt; &lt;span class="n"&gt;point&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="mh"&gt;3&lt;/span&gt;&lt;span class="n"&gt;D&lt;/span&gt; &lt;span class="n"&gt;cursor&lt;/span&gt;
+  &lt;span class="n"&gt;g&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;grab&lt;/span&gt;
+  &lt;span class="n"&gt;s&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;scale&lt;/span&gt;
+  &lt;span class="n"&gt;r&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;rotate&lt;/span&gt;
+  &lt;span class="n"&gt;x&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;transformation&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;locks&lt;/span&gt; &lt;span class="n"&gt;transformation&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;x&lt;/span&gt; &lt;span class="n"&gt;axis&lt;/span&gt;
+  &lt;span class="n"&gt;y&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;transformation&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;locks&lt;/span&gt; &lt;span class="n"&gt;transformation&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;y&lt;/span&gt; &lt;span class="n"&gt;axis&lt;/span&gt;
+  &lt;span class="n"&gt;z&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;transformation&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;locks&lt;/span&gt; &lt;span class="n"&gt;transformation&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;z&lt;/span&gt; &lt;span class="n"&gt;axis&lt;/span&gt;
+  &lt;span class="n"&gt;ctrl&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;invert&lt;/span&gt; &lt;span class="n"&gt;selection&lt;/span&gt;
+  &lt;span class="n"&gt;h&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;hide&lt;/span&gt; &lt;span class="n"&gt;selection&lt;/span&gt;
+  &lt;span class="n"&gt;x&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;removes&lt;/span&gt; &lt;span class="n"&gt;whatever&lt;/span&gt; &lt;span class="n"&gt;is&lt;/span&gt; &lt;span class="n"&gt;selected&lt;/span&gt;
+  &lt;span class="n"&gt;f&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;creates&lt;/span&gt; &lt;span class="n"&gt;new&lt;/span&gt; &lt;span class="n"&gt;vertices&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;edges&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="k"&gt;and&lt;/span&gt; &lt;span class="n"&gt;faces&lt;/span&gt;
+  &lt;span class="n"&gt;alt&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;h&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;un&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;hide&lt;/span&gt; &lt;span class="n"&gt;hidden&lt;/span&gt;
+  &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;select&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;deselect&lt;/span&gt; &lt;span class="n"&gt;everything&lt;/span&gt;
+  &lt;span class="n"&gt;p&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;separate&lt;/span&gt; &lt;span class="n"&gt;selected&lt;/span&gt; &lt;span class="n"&gt;vertices&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;edges&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="k"&gt;and&lt;/span&gt; &lt;span class="n"&gt;faces&lt;/span&gt; &lt;span class="n"&gt;from&lt;/span&gt; &lt;span class="n"&gt;current&lt;/span&gt; &lt;span class="n"&gt;object&lt;/span&gt;
+  &lt;span class="n"&gt;f&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;extrude&lt;/span&gt; &lt;span class="n"&gt;selected&lt;/span&gt; &lt;span class="n"&gt;vertices&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;edges&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="k"&gt;or&lt;/span&gt; &lt;span class="n"&gt;faces&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content><category term="news"></category><category term="blender"></category></entry><entry><title>New meeting and new location on June 20th 2013</title><link href="http://sluglinux.org/news/2013-05-31.html" rel="alternate"></link><published>2013-05-31T00:00:00-05:00</published><updated>2013-05-31T00:00:00-05:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2013-05-31:/news/2013-05-31.html</id><summary type="html">&lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
 
 &lt;p&gt;The next meeting will be held at a new location, the Siouxland Libraries Main branch downtown Sioux Falls.&lt;/p&gt;
 &lt;p&gt;The idea is to have plenty of topics to discuss. If there is interest we can go over these topics in depth.&lt;/p&gt;
@@ -282,7 +279,6 @@ few meetings here.&lt;/p&gt;
 &lt;/ul&gt;
 &lt;p&gt;What we don't get a chance to cover during this meeting can be pushed to the next meeting. You can submit your ideas to the mailing list by sending an email to sluglinux@googlegroups.com. Please check out the meeting page for more information. &lt;/p&gt;
 &lt;!-- PELICAN_END_SUMMARY --&gt;</content><category term="news"></category><category term="slug"></category><category term="meetings"></category></entry><entry><title>DokotaCon recap</title><link href="http://sluglinux.org/news/2012-04-29.html" rel="alternate"></link><published>2012-04-29T00:00:00-05:00</published><updated>2012-04-29T00:00:00-05:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2012-04-29:/news/2012-04-29.html</id><summary type="html">&lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
-
 &lt;p&gt;In case you missed the 2012 &lt;a href="http://dakotacon.org/"&gt;DakotaCon&lt;/a&gt; I have put together some links. If you have anything to contribute please leave it in the comments or &lt;a href="mailto:phliver@gmail.com"&gt;email me&lt;/a&gt;.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -290,7 +286,6 @@ few meetings here.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;a href="http://www.sdpb.org/newsite/shows.aspx?MediaID=60666&amp;amp;Parmtype=RADIO&amp;amp;ParmAccessLevel=sdpb-all"&gt;Dr. Josh Pauli and …&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
-
 &lt;p&gt;In case you missed the 2012 &lt;a href="http://dakotacon.org/"&gt;DakotaCon&lt;/a&gt; I have put together some links. If you have anything to contribute please leave it in the comments or &lt;a href="mailto:phliver@gmail.com"&gt;email me&lt;/a&gt;.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -306,6 +301,6 @@ few meetings here.&lt;/p&gt;
 &lt;/ul&gt;
 &lt;p&gt;Update:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Keloland ran a &lt;a href="http://www.keloland.com/NewsDetail6162.cfm?Id=130946"&gt;story&lt;/a&gt; about DakotaCon. 
-&lt;!-- PELICAN_END_SUMMARY --&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><category term="news"></category><category term="dakotacon"></category><category term="security"></category></entry></feed>
+&lt;li&gt;Keloland ran a &lt;a href="http://www.keloland.com/NewsDetail6162.cfm?Id=130946"&gt;story&lt;/a&gt; about DakotaCon. &lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- PELICAN_END_SUMMARY --&gt;</content><category term="news"></category><category term="dakotacon"></category><category term="security"></category></entry></feed>
